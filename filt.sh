@@ -1,10 +1,36 @@
 #!/bin/bash
+
 GREEN='\033[0;32m'
 RED='\033[0;31m'
 YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
 NC='\033[0m' 
 BOLD='\033[1m'
+
+# Функция для получения информации о пакете через rpm
+get_package_info() {
+    local filepath="$1"
+    
+    # Проверяем, существует ли файл
+    if [ ! -e "$filepath" ]; then
+        echo "N/A"
+        return
+    fi
+    
+    # Выполняем rpm -qf и обрабатываем результат
+    local package=$(rpm -qf "$filepath" 2>/dev/null | head -1)
+    
+    if [ -n "$package" ]; then
+        # Обрезаем длинные имена пакетов для лучшего отображения
+        if [ ${#package} -gt 40 ]; then
+            echo "${package:0:37}..."
+        else
+            echo "$package"
+        fi
+    else
+        echo "N/A"
+    fi
+}
 
 # для получения длины строки без цветовых кодов
 strlen_without_colors() {
@@ -192,21 +218,27 @@ check_protection() {
 # для форматированного вывода таблицы
 print_table() {
     local -n data=$1
+    local -n packages=$2
     
     # ширина столбцов
     local w_relro=16 w_canary=16 w_nx=13 w_pie=16 w_rpath=11 w_runpath=11
-    local w_symbols=16 w_fortify=9 w_fortified=11 w_fortifiable=13
+    local w_symbols=16 w_fortify=9 w_fortified=11 w_fortifiable=13 w_packet=40
     
     # заголовки
-    printf "${BOLD}%-${w_relro}s %-${w_canary}s %-${w_nx}s %-${w_pie}s %-${w_rpath}s %-${w_runpath}s %-${w_symbols}s %-${w_fortify}s %-${w_fortified}s %-${w_fortifiable}s %s${NC}\n" \
-           "RELRO" "STACK CANARY" "NX" "PIE" "RPATH" "RUNPATH" "Symbols" "FORTIFY" "Fortified" "Fortifiable" "Filename"
+    printf "${BOLD}%-${w_relro}s %-${w_canary}s %-${w_nx}s %-${w_pie}s %-${w_rpath}s %-${w_runpath}s %-${w_symbols}s %-${w_fortify}s %-${w_fortified}s %-${w_fortifiable}s %-${w_packet}s %s${NC}\n" \
+           "RELRO" "STACK CANARY" "NX" "PIE" "RPATH" "RUNPATH" "Symbols" "FORTIFY" "Fortified" "Fortifiable" "Packet" "Filename"
     
     # разделитель
-    printf "%s\n" "--------------------------------------------------------------------------------------------------------------------------------------------------------------------"
+    printf "%s\n" "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
     
     # данные
+    local idx=0
     for row in "${data[@]}"; do
         IFS=',' read -r relro canary nx pie rpath runpath symbols fortify fortified fortifiable filename <<< "$row"
+        
+        # Получаем информацию о пакете
+        packet="${packages[$idx]}"
+        
         # форматируем каждое поле с учетом цвета и выравнивания
         relro_out=$(format_colored "$relro" $w_relro "get_color RELRO \"\$relro\"")
         canary_out=$(format_colored "$canary" $w_canary "get_color CANARY \"\$canary\"")
@@ -218,14 +250,21 @@ print_table() {
         fortify_out=$(format_colored "$fortify" $w_fortify "get_color FORTIFY \"\$fortify\"")
         fortified_out=$(format_colored "$fortified" $w_fortified "get_color FORTIFIED \"\$fortified\"")
         fortifiable_out=$(format_colored "$fortifiable" $w_fortifiable "get_color FORTIFIABLE \"\$fortifiable\"")
+        
+        # форматируем пакет (без цвета, но с выравниванием)
+        packet_out=$(printf "%-${w_packet}s" "$packet")
+        
         # выводим строку
-        echo -e "$relro_out$canary_out$nx_out$pie_out$rpath_out$runpath_out$symbols_out$fortify_out$fortified_out$fortifiable_out $filename"
+        echo -e "$relro_out$canary_out$nx_out$pie_out$rpath_out$runpath_out$symbols_out$fortify_out$fortified_out$fortifiable_out$packet_out $filename"
+        
+        idx=$((idx + 1))
     done
 }
 
 main() {
     echo -e "${BOLD}Фильтрация файлов по защитам${NC}"
     echo "==========================================="
+    
     # Запрашиваем путь к файлу
     echo -e "\n${BOLD}Введите путь к CSV файлу с данными:${NC}"
     read -e input_file
@@ -237,7 +276,7 @@ main() {
     
     echo -e "\n${BOLD}Выберите состояние защит для фильтрации:${NC}"
     echo "0 - Выключена"
-    echo "1 -Включена"
+    echo "1 - Включена"
     read state
     
     if [[ "$state" != "0" && "$state" != "1" ]]; then
@@ -273,6 +312,7 @@ main() {
     
     # читаем файл и фильтруем
     results=()
+    all_lines=()
     line_num=0
     
     echo -e "\n${BOLD}Фильтрация файла...${NC}"
@@ -283,6 +323,9 @@ main() {
         if [[ -z "${line// }" ]]; then
             continue
         fi
+        
+        # Сохраняем все строки для последующего получения информации о пакетах
+        all_lines+=("$line")
         
         # Разбиваем строку на поля
         IFS=',' read -r relro canary nx pie rpath runpath symbols fortify fortified fortifiable filename <<< "$line"
@@ -318,15 +361,25 @@ main() {
         
     done < "$input_file"
     
-    echo -e "\n${BOLD}====================================================================================================================================================================${NC}"
+    echo -e "\n${BOLD}Получение информации о пакетах...${NC}"
+    
+    # Получаем информацию о пакетах для отфильтрованных файлов
+    packet_info=()
+    for row in "${results[@]}"; do
+        IFS=',' read -r relro canary nx pie rpath runpath symbols fortify fortified fortifiable filename <<< "$row"
+        packet=$(get_package_info "$filename")
+        packet_info+=("$packet")
+    done
+    
+    echo -e "\n${BOLD}================================================================================================================================================================================================================${NC}"
     echo -e "${BOLD}РЕЗУЛЬТАТЫ ФИЛЬТРАЦИИ${NC}"
-    echo -e "${BOLD}====================================================================================================================================================================${NC}"
+    echo -e "${BOLD}================================================================================================================================================================================================================${NC}"
     
     if [ ${#results[@]} -eq 0 ]; then
         echo -e "${RED}Нет файлов, соответствующих критериям фильтрации.${NC}"
     else
-        # Выводим отформатированную таблицу
-        print_table results
+        # Выводим отформатированную таблицу с пакетами
+        print_table results packet_info
     fi
     
     # Статистика
