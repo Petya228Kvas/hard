@@ -4,6 +4,8 @@ GREEN='\033[0;32m'
 RED='\033[0;31m'
 YELLOW='\033[1;33m'
 BLUE='\033[0;34m'
+MAGENTA='\033[0;35m'
+CYAN='\033[0;36m'
 NC='\033[0m' 
 BOLD='\033[1m'
 
@@ -208,6 +210,37 @@ check_protection() {
     esac
 }
 
+get_protection_signature() {
+    local relro="$1"
+    local canary="$2"
+    local nx="$3"
+    local pie="$4"
+    local rpath="$5"
+    local runpath="$6"
+    local symbols="$7"
+    local fortify="$8"
+    local fortified="$9"
+    local fortifiable="${10}"
+    
+    local sig=""
+    
+    if [[ "$relro" == *"Full RELRO"* ]]; then sig="${sig}F"; 
+    elif [[ "$relro" == *"Partial RELRO"* ]]; then sig="${sig}P"; 
+    else sig="${sig}N"; fi
+    
+    if [[ "$canary" == *"Canary found"* ]]; then sig="${sig}C"; else sig="${sig}N"; fi
+    if [[ "$nx" == *"enabled"* ]]; then sig="${sig}X"; else sig="${sig}N"; fi
+    if [[ "$pie" == *"PIE enabled"* ]]; then sig="${sig}E"; else sig="${sig}N"; fi
+    if [[ "$rpath" == "No RPATH" ]]; then sig="${sig}R"; else sig="${sig}N"; fi
+    if [[ "$runpath" == "No RUNPATH" ]]; then sig="${sig}U"; else sig="${sig}N"; fi
+    if [[ "$symbols" == "No Symbols" ]]; then sig="${sig}S"; else sig="${sig}N"; fi
+    if [[ "$fortify" == "Yes" ]]; then sig="${sig}Y"; 
+    elif [[ "$fortify" == "N/A" ]]; then sig="${sig}A"; 
+    else sig="${sig}N"; fi
+    
+    echo "$sig"
+}
+
 print_table() {
     local -n data=$1
     local -n packages=$2
@@ -222,18 +255,29 @@ print_table() {
     printf "%s\n" "----------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------"
     
     local current_packet=""
+    local last_signature=""
+    local first_in_packet=true
+    
     for ((i=0; i<${#data[@]}; i++)); do
         row="${data[$i]}"
         packet="${packages[$i]}"
         group="${groups[$i]}"
         
         IFS=',' read -r relro canary nx pie rpath runpath symbols fortify fortified fortifiable filename <<< "$row"
+        signature=$(get_protection_signature "$relro" "$canary" "$nx" "$pie" "$rpath" "$runpath" "$symbols" "$fortify" "$fortified" "$fortifiable")
         
         if [[ "$packet" != "$current_packet" ]]; then
             if [[ -n "$current_packet" ]]; then
                 echo ""
             fi
             current_packet="$packet"
+            last_signature=""
+            first_in_packet=true
+        fi
+        
+        # Показываем индикатор смены сигнатуры только если это не первый файл в пакете
+        if [[ "$first_in_packet" == false ]] && [[ "$signature" != "$last_signature" ]]; then
+            echo -e "${CYAN}~~~Смена конфигурации защит~~~${NC}"
         fi
         
         relro_out=$(format_colored "$relro" $w_relro "get_color RELRO \"\$relro\"")
@@ -250,7 +294,10 @@ print_table() {
         packet_out=$(printf "%-${w_packet}s" "$packet")
         group_out=$(printf "%-${w_group}s" "$group")
         
-        echo -e "$relro_out$canary_out$nx_out$pie_out$rpath_out$runpath_out$symbols_out$fortify_out$fortified_out$fortifiable_out$packet_out$group_out $filename"
+        echo -e "$relro_out $canary_out $nx_out $pie_out $rpath_out $runpath_out $symbols_out $fortify_out $fortified_out $fortifiable_out $packet_out $group_out $filename"
+        
+        last_signature="$signature"
+        first_in_packet=false
     done
 }
 
@@ -386,6 +433,7 @@ main() {
     
     declare -A packet_groups
     declare -A packet_file_count
+    declare -A packet_signatures
     packet_order=()
     
     for row in "${results[@]}"; do
@@ -393,6 +441,7 @@ main() {
         info=$(get_package_info "$filename")
         packet=$(echo "$info" | cut -d'|' -f1)
         group=$(echo "$info" | cut -d'|' -f2)
+        signature=$(get_protection_signature "$relro" "$canary" "$nx" "$pie" "$rpath" "$runpath" "$symbols" "$fortify" "$fortified" "$fortifiable")
         
         if [[ -z "${packet_groups[$packet]}" ]]; then
             packet_order+=("$packet")
@@ -401,6 +450,7 @@ main() {
         
         packet_file_count[$packet]=$((packet_file_count[$packet] + 1))
         packet_groups["$packet"]="${packet_groups[$packet]}$row|$group|"
+        packet_signatures["$packet|$signature"]=$((packet_signatures["$packet|$signature"] + 1))
     done
     
     sorted_results=()
@@ -438,7 +488,21 @@ main() {
             if [[ ${packet_file_count[$packet]} -gt 0 ]]; then
                 packages_with_files=$((packages_with_files + 1))
             fi
+            
             echo -e "  ${BOLD}*${NC} ${packet}: ${packet_file_count[$packet]} файл(ов)"
+            
+            local unique_signatures=0
+            for key in "${!packet_signatures[@]}"; do
+                if [[ "$key" == "$packet|"* ]]; then
+                    unique_signatures=$((unique_signatures + 1))
+                fi
+            done
+            
+            if [[ $unique_signatures -gt 1 ]]; then
+                echo -e "    ${YELLOW}В пакете ${unique_signatures} разных конфигурации защит${NC}"
+            else
+                echo -e "    ${GREEN}Все файлы используют одинаковые защиты${NC}"
+            fi
         fi
     done
     
