@@ -1,0 +1,60 @@
+СТАТИСТИКА ПО ПАКЕТАМ:
+----------------------------------------
+  * desktop-file-utils-0.26-alt6.x86_64: 6 файл(ов)
+  * papers-48.5-alt1.x86_64: 2 файл(ов)
+  * fwupd-2.0.12-alt1.x86_64: 4 файл(ов)
+  * libversion-tools-3.0.2-alt1.x86_64: 2 файл(ов)
+  * colord-1.4.8-alt1.x86_64: 6 файл(ов)
+  * man-db-2.13.1-alt2.x86_64: 2 файл(ов)
+  * glibc-utils-2.38.0.123.650a0-alt...: 4 файл(ов)
+  * gnome-session-48.0-alt1.x86_64: 2 файл(ов)
+  * libgio-2.84.4-alt1.x86_64: 10 файл(ов)
+  * ntfs-3g-2022.10.3-alt1.x86_64: 6 файл(ов)
+  * cpupower-6.18-alt1.x86_64: 4 файл(ов)
+  * localsearch-3.9.0-alt1.x86_64: 2 файл(ов)
+  * gnome-logs-45.0-alt1.x86_64: 2 файл(ов)
+  * gst-plugins-bad1.0-1.26.10-alt1....: 2 файл(ов)
+  * gdm-48.0-alt5.x86_64: 2 файл(ов)
+  * tinysparql-3.9.2-alt1.x86_64: 2 файл(ов)
+  * apt-0.5.15lorg2-alt100.x86_64: 2 файл(ов)
+  * sg3_utils-1.48-alt2.x86_64: 4 файл(ов)
+  * rpminstall-1.1.5-alt1.x86_64: 2 файл(ов)
+  * libgtk+3-3.24.51-alt1.x86_64: 4 файл(ов)
+  * apache2-htpasswd-2.4.66-alt1.x86_64: 2 файл(ов)
+  * gnome-extension-manager-0.6.1-al...: 2 файл(ов)
+  * gping-1.17.3-alt1.x86_64: 2 файл(ов)
+  * apache2-base-2.4.66-alt1.x86_64: 10 файл(ов)
+  * waked-0.1.1-alt2.x86_64: 2 файл(ов)
+  * udisks2-2.11.0-alt1.x86_64: 2 файл(ов)
+  * ghostscript-classic-10.06.0-alt1...: 2 файл(ов)
+  * gstreamer-editing-services-1.26....: 2 файл(ов)
+  * libjcat-0.2.2-alt1.x86_64: 2 файл(ов)
+  * alterator-lookout-2.8.1-alt1.x86_64: 2 файл(ов)
+  * gnome-text-editor-48.3-alt1.x86_64: 2 файл(ов)
+  * loupe-48.1-alt1.x86_64: 2 файл(ов)
+  * libcamera-0.5.1-alt2.x86_64: 2 файл(ов)
+  * gnome-software-49.1-alt1.x86_64: 2 файл(ов)
+  * apache2-ab-2.4.66-alt1.x86_64: 2 файл(ов)
+  * pptp-client-1.10.0-alt2.x86_64: 2 файл(ов)
+  * dmraid-1.0.0.rc16-alt3.x86_64: 2 файл(ов)
+  * cups-2.4.16-alt2.x86_64: 2 файл(ов)
+  * thin-provisioning-tools-1.1.0-al...: 2 файл(ов)
+  * apache2-htcacheclean-2.4.66-alt1...: 2 файл(ов)
+  * realmd-0.17.1-alt7.x86_64: 2 файл(ов)
+  * service-0.5.34-alt1.x86_64: 4 файл(ов)
+  * apache2-httpd-worker-2.4.66-alt1...: 2 файл(ов)
+  * alterator-5.4.5-alt1.x86_64: 2 файл(ов)
+  * packageinstall-1.4.2-alt1.x86_64: 2 файл(ов)
+  * usb-modeswitch-2.6.1-alt4.x86_64: 2 файл(ов)
+  * systemd-257.9-alt1.x86_64: 4 файл(ов)
+----------------------------------------
+Всего обработано: 3529 строк
+Найдено файлов: 136
+Уникальных пакетов: 47
+Пакетов (исключая N/A): 47
+Пакетов с файлами: 47
+
+Детали фильтрации:
+  Состояние: Выключена
+  Логика: И (AND)
+  Защиты: FORTIFY 
