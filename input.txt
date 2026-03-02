@@ -1,0 +1,4 @@
+all.txt 
+1
+2
+all
