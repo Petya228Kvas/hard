@@ -1,0 +1,1034 @@
+АНАЛИЗ ГРУПП ЗАЩИТ (8 защит = 256 возможных групп)
+==================================================
+Дата анализа: Чт 05 мар 2026 22:03:30 +07
+Всего обработано строк: 3529
+Всего файлов: 3529
+
+Список всех найденных групп:
+-----------------------------
+Группа 01100111 (103):
+  Файлов: 16
+  Уникальных пакетов: 1
+  Защиты: CANARY FORTIFY NX RPATH RUNPATH 
+  Пакеты:
+    - mongo-tools-100.9.4-alt1.x86_64
+
+Группа 10000111 (135):
+  Файлов: 6
+  Уникальных пакетов: 2
+  Защиты: CANARY FORTIFY NX SYMBOLS 
+  Пакеты:
+    - coreutils-9.4.0.75.7f2c97-alt1.x...
+    - util-linux-2.39.2-alt2.x86_64
+
+Группа 10010111 (151):
+  Файлов: 4
+  Уникальных пакетов: 2
+  Защиты: CANARY FORTIFY NX RELRO SYMBOLS 
+  Пакеты:
+    - dmraid-1.0.0.rc16-alt3.x86_64
+    - sash-3.4-alt2.qa2.x86_64
+
+Группа 11011101 (221):
+  Файлов: 14
+  Уникальных пакетов: 5
+  Защиты: CANARY NX PIE RELRO RUNPATH SYMBOLS 
+  Пакеты:
+    - fwupd-2.0.12-alt1.x86_64
+    - gnome-software-49.1-alt1.x86_64
+    - man-db-2.13.1-alt2.x86_64
+    - systemd-257.9-alt1.x86_64
+    - tinysparql-3.9.2-alt1.x86_64
+
+Группа 11011111 (223):
+  Файлов: 236
+  Уникальных пакетов: 12
+  Защиты: CANARY FORTIFY NX PIE RELRO RUNPATH SYMBOLS 
+  Пакеты:
+    - dovecot-2.3.21.1-alt1.x86_64
+    - fwupd-2.0.12-alt1.x86_64
+    - gnome-keyring-48.0-alt1.x86_64
+    - gnome-shell-48.5-alt1.x86_64
+    - man-db-2.13.1-alt2.x86_64
+    - samba-client-4.21.9-alt1.x86_64
+    - samba-common-tools-4.21.9-alt1.x...
+    - strongswan-5.9.14-alt4.x86_64
+    - systemd-257.9-alt1.x86_64
+    - systemd-analyze-257.9-alt1.x86_64
+    - systemd-boot-efi-257.9-alt1.x86_64
+    - systemd-networkd-257.9-alt1.x86_64
+
+Группа 11100111 (231):
+  Файлов: 4
+  Уникальных пакетов: 2
+  Защиты: CANARY FORTIFY NX RPATH RUNPATH SYMBOLS 
+  Пакеты:
+    - rain-1.12.12-alt2.x86_64
+    - zabbix-web-service-7.0.22-alt0.p...
+
+Группа 11110111 (247):
+  Файлов: 34
+  Уникальных пакетов: 7
+  Защиты: CANARY FORTIFY NX RELRO RPATH RUNPATH SYMBOLS 
+  Пакеты:
+    - cpp13-13.2.1-alt3.x86_64
+    - ftp-0.18-alt0.pre1.3.x86_64
+    - gcc13-13.2.1-alt3.x86_64
+    - netstat-nat-1.4.9-alt1.qa1.x86_64
+    - sysbench-1.0.20-alt1.x86_64
+    - util-linux-2.39.2-alt2.x86_64
+    - wmdocker-1.5-alt3.x86_64
+
+Группа 11111101 (253):
+  Файлов: 122
+  Уникальных пакетов: 42
+  Защиты: CANARY NX PIE RELRO RPATH RUNPATH SYMBOLS 
+  Пакеты:
+    - alterator-5.4.5-alt1.x86_64
+    - alterator-lookout-2.8.1-alt1.x86_64
+    - apache2-ab-2.4.66-alt1.x86_64
+    - apache2-base-2.4.66-alt1.x86_64
+    - apache2-htcacheclean-2.4.66-alt1...
+    - apache2-htpasswd-2.4.66-alt1.x86_64
+    - apache2-httpd-worker-2.4.66-alt1...
+    - apt-0.5.15lorg2-alt100.x86_64
+    - colord-1.4.8-alt1.x86_64
+    - cpupower-6.18-alt1.x86_64
+    - cups-2.4.16-alt2.x86_64
+    - desktop-file-utils-0.26-alt6.x86_64
+    - dmraid-1.0.0.rc16-alt3.x86_64
+    - gdm-48.0-alt5.x86_64
+    - ghostscript-classic-10.06.0-alt1...
+    - glibc-utils-2.38.0.123.650a0-alt...
+    - gnome-extension-manager-0.6.1-al...
+    - gnome-logs-45.0-alt1.x86_64
+    - gnome-session-48.0-alt1.x86_64
+    - gnome-text-editor-48.3-alt1.x86_64
+    - gping-1.17.3-alt1.x86_64
+    - gst-plugins-bad1.0-1.26.10-alt1....
+    - gstreamer-editing-services-1.26....
+    - libcamera-0.5.1-alt2.x86_64
+    - libgio-2.84.4-alt1.x86_64
+    - libgtk+3-3.24.51-alt1.x86_64
+    - libjcat-0.2.2-alt1.x86_64
+    - libversion-tools-3.0.2-alt1.x86_64
+    - localsearch-3.9.0-alt1.x86_64
+    - loupe-48.1-alt1.x86_64
+    - ntfs-3g-2022.10.3-alt1.x86_64
+    - packageinstall-1.4.2-alt1.x86_64
+    - papers-48.5-alt1.x86_64
+    - pptp-client-1.10.0-alt2.x86_64
+    - realmd-0.17.1-alt7.x86_64
+    - rpminstall-1.1.5-alt1.x86_64
+    - service-0.5.34-alt1.x86_64
+    - sg3_utils-1.48-alt2.x86_64
+    - thin-provisioning-tools-1.1.0-al...
+    - udisks2-2.11.0-alt1.x86_64
+    - usb-modeswitch-2.6.1-alt4.x86_64
+    - waked-0.1.1-alt2.x86_64
+
+Группа 11111111 (255):
+  Файлов: 3093
+  Уникальных пакетов: 445
+  Защиты: CANARY FORTIFY NX PIE RELRO RPATH RUNPATH SYMBOLS 
+  Пакеты:
+    - acl-2.3.1.0.20.d265-alt1.x86_64
+    - agetty-2.39.2-alt2.x86_64
+    - alsa-tools-1.2.5-alt2.x86_64
+    - alt-components-0.6.10-alt0.p11.1...
+    - alterator-backend-x11-1.98.16-al...
+    - alterator-browser-qt6-3.7.6-alt1...
+    - alteratorctl-0.2.8-alt0.p11.1.x8...
+    - alterator-explorer-0.1.18-alt1.x...
+    - alterator-grub-0.29-alt1.x86_64
+    - alterator-manager-0.1.31-alt2.x8...
+    - alterator-users-10.27-alt2.x86_64
+    - alt-packages-0.3.11-alt0.p11.1.x...
+    - alt-systeminfo-0.4.12-alt0.p11.1...
+    - anacron-2.3-alt7.x86_64
+    - apache2-base-2.4.66-alt1.x86_64
+    - apt-0.5.15lorg2-alt100.x86_64
+    - apt-repo-tools-0.8.1-alt1.x86_64
+    - arj-3.10.22-alt9.x86_64
+    - attr-2.5.1-alt2.x86_64
+    - audit-4.1.3-alt1.x86_64
+    - autofs-5.1.9-alt2.x86_64
+    - avahi-autoipd-0.8-alt4.x86_64
+    - avahi-daemon-0.8-alt4.x86_64
+    - avahi-tools-0.8-alt4.x86_64
+    - bash5-5.2.37-alt1.x86_64
+    - bat-0.25.0-alt2.x86_64
+    - bc-1.07.1-alt1.x86_64
+    - bind-9.18.44-alt1.x86_64
+    - bind-utils-9.18.44-alt1.x86_64
+    - binutils-2.41-alt1.x86_64
+    - bison-3.8.2-alt1.x86_64
+    - bluez-5.85-alt1.x86_64
+    - btrfs-progs-6.13-alt1.x86_64
+    - bubblewrap-0.11.0-alt1.x86_64
+    - bzip2-1.0.8-alt3.x86_64
+    - bzip3-1.4.0-alt1.x86_64
+    - cfdisk-2.39.2-alt2.x86_64
+    - cgdisk-1.0.10-alt1.x86_64
+    - cgroup-3.1.0-alt1.x86_64
+    - chkconfig-1.3.59-alt4.x86_64
+    - chrony-4.8-alt1.x86_64
+    - colord-1.4.8-alt1.x86_64
+    - conntrack-tools-1.4.8-alt1.x86_64
+    - console-vt-tools-2.6.4-alt1.x86_64
+    - coreutils-9.4.0.75.7f2c97-alt1.x...
+    - cpio-2.15-alt1.x86_64
+    - cpupower-6.18-alt1.x86_64
+    - cracklib-utils-2.10.3-alt1.x86_64
+    - cryptsetup-2.7.4-alt1.x86_64
+    - cups-2.4.16-alt2.x86_64
+    - curl-8.18.0-alt1.x86_64
+    - dbus-1.16.0-alt2.x86_64
+    - dbus-tools-1.16.0-alt2.x86_64
+    - dbus-tools-gui-1.16.0-alt2.x86_64
+    - dconf-0.40.0-alt3.x86_64
+    - dconf-editor-45.0.1-alt2.x86_64
+    - ddcprobe-3.0-alt1.qa2.x86_64
+    - debugedit-5.0.0.27.6dd2-alt1.x86_64
+    - dhcpcd-10.2.4-alt1.x86_64
+    - dhcp-client-4.4.3.P1-alt2.x86_64
+    - dhcp-server-4.4.3.P1-alt2.x86_64
+    - diffstat-1.64-alt1.x86_64
+    - diffutils-3.10.0.207.774b-alt1.x...
+    - dmeventd-1.02.204-alt1.x86_64
+    - dmidecode-3.6-alt1.x86_64
+    - dmraid-1.0.0.rc16-alt3.x86_64
+    - dmsetup-1.02.204-alt1.x86_64
+    - dnsmasq-2.92-alt1.x86_64
+    - dnsmasq-utils-2.92-alt1.x86_64
+    - dosfstools-4.2-alt3.x86_64
+    - e2fsprogs-1.47.1.0.10.ad56-alt2....
+    - ed-0.2-alt10.x86_64
+    - efibootmgr-18-alt1.x86_64
+    - eject-2.1.5-alt4.x86_64
+    - elfutils-0.191-alt1.x86_64
+    - etherwake-1.09-alt1.qa1.x86_64
+    - ethtool-6.15-alt1.x86_64
+    - exfatprogs-1.2.7-alt1.x86_64
+    - expect-5.45.4-alt4.x86_64
+    - fakeroot-1.29-alt3.x86_64
+    - fatresize-1.0.3-alt13.x86_64
+    - fd0ssh-20231224-alt1.x86_64
+    - fdisk-2.39.2-alt2.x86_64
+    - file-5.45-alt1.x86_64
+    - file-roller-44.5-alt1.x86_64
+    - findutils-4.9.0.0.9.e5c6-alt1.x8...
+    - fixparts-1.0.10-alt1.x86_64
+    - flashrom-1.6.0-alt1.x86_64
+    - flexiblas-netlib-3.5.0-alt1.x86_64
+    - flite-2.2-alt2.x86_64
+    - fontconfig-2.17.1-alt2.x86_64
+    - fprintd-clients-1.94.5-alt3.x86_64
+    - fuse3-3.16.2-alt2.x86_64
+    - gawk-5.1.0.0.213.d04f-alt1.x86_64
+    - gcc-common-1.4.28-alt1.x86_64
+    - gcr-3.41.2-alt1.x86_64
+    - gcr4-4.4.0.1-alt1.x86_64
+    - gdisk-1.0.10-alt1.x86_64
+    - gdm-48.0-alt5.x86_64
+    - getopt-2.39.2-alt2.x86_64
+    - gettext-0.21-alt2.x86_64
+    - gettext-tools-0.21-alt2.x86_64
+    - ghostscript-classic-10.06.0-alt1...
+    - git-core-2.50.1-alt1.x86_64
+    - glibc-core-2.38.0.123.650a0-alt1...
+    - glibc-preinstall-2.38.0.123.650a...
+    - glibc-timezones-2.38.0.123.650a0...
+    - glibc-utils-2.38.0.123.650a0-alt...
+    - gnome-bluetooth3.0-47.1-alt2.x86_64
+    - gnome-calculator-48.1-alt1.x86_64
+    - gnome-calendar-48.1-alt1.x86_64
+    - gnome-clocks-48.0-alt1.x86_64
+    - gnome-console-48.0.1-alt1.x86_64
+    - gnome-control-center-48.4-alt1.x...
+    - gnome-disk-utility-46.1-alt1.1.x...
+    - gnome-keyring-48.0-alt1.x86_64
+    - gnome-remote-desktop-48.1-alt1.x...
+    - gnome-session-48.0-alt1.x86_64
+    - gnome-shell-48.5-alt1.x86_64
+    - gnome-system-monitor-49.1-alt1.x...
+    - gnupg-1.4.23-alt4.x86_64
+    - gnupg2-2.4.3-alt1.x86_64
+    - gnutls-utils-3.8.12-alt1.x86_64
+    - gostsum-3.0.2-alt5.x86_64
+    - grep-3.11.0.20.dd8f-alt1.x86_64
+    - groff-base-1.22.3-alt2.x86_64
+    - grub-common-2.12-alt14.x86_64
+    - gst-devtools-1.26.10-alt1.x86_64
+    - gtk4-update-icon-cache-4.20.3-al...
+    - gucharmap-16.0.2-alt1.x86_64
+    - guile22-2.2.7-alt1.x86_64
+    - gzip-1.13-alt3.x86_64
+    - haproxy-3.0.12-alt1.x86_64
+    - hddtemp-0.4.4-alt1.x86_64
+    - hdparm-9.62-alt1.x86_64
+    - hostinfo-2.2-alt7.x86_64
+    - htop-3.3.0-alt1.x86_64
+    - hwclock-2.39.2-alt2.x86_64
+    - ibus-1.5.32-alt1.x86_64
+    - iceauth-1.0.9-alt1.x86_64
+    - iconv-2.38.0.123.650a0-alt1.x86_64
+    - ifrename-29-alt11.x86_64
+    - iftop-0.17-alt5.x86_64
+    - iio-sensor-proxy-3.7-alt1.x86_64
+    - im-chooser-1.7.4-alt1_5.x86_64
+    - imsettings-1.8.9-alt1.x86_64
+    - info-7.1-alt1.x86_64
+    - info-install-7.1-alt1.x86_64
+    - ipmitool-1.8.19-alt1.x86_64
+    - iproute2-6.12.0-alt1.x86_64
+    - iptables-1.8.10-alt1.x86_64
+    - iputils-20250605-alt1.x86_64
+    - iucode_tool-2.3.1-alt2.x86_64
+    - iw-6.9-alt1.x86_64
+    - jfsutils-1.1.15-alt4.x86_64
+    - jq-1.8.1-alt1.x86_64
+    - kbd-2.6.4-alt1.x86_64
+    - keyutils-1.6.3-alt1.x86_64
+    - kmod-31-alt1.x86_64
+    - kpartx-0.11.1-alt3.x86_64
+    - krb5-kinit-1.21.3-alt2.x86_64
+    - krb5-ticket-watcher-1.0.3-alt30....
+    - less-633-alt1.x86_64
+    - lft-3.8-alt1.x86_64
+    - lftp-4.9.2-alt1.x86_64
+    - lha-1.14i-alt3.x86_64
+    - libatasmart-0.19-alt1.x86_64
+    - libblockdev-tools-3.4.0-alt1.x86_64
+    - libcamera-0.5.1-alt2.x86_64
+    - libcanberra-0.30-alt3.x86_64
+    - libcanberra-gtk3-0.30-alt3.x86_64
+    - libcap-utils-2.69-alt2.x86_64
+    - libcdio-paranoia-10.2.2.0.2-alt1...
+    - libcolord-gtk-0.3.1-alt1.x86_64
+    - libdisplay-info-0.2.0-alt1.x86_64
+    - libevdev-1.13.4-alt1.x86_64
+    - libexempi-2.6.5-alt1.x86_64
+    - libgdk-pixbuf-2.44.4-alt1.x86_64
+    - libgio-2.84.4-alt1.x86_64
+    - libgjs-1.84.2-alt1.x86_64
+    - libgpg-error-1.47-alt1.x86_64
+    - libgsf-1.14.53-alt1.x86_64
+    - libgtk+2-2.24.33-alt2.x86_64
+    - libgtk+3-3.24.51-alt1.x86_64
+    - libgtk4-4.20.3-alt1.x86_64
+    - libgupnp-dlna-0.12.0-alt2.x86_64
+    - libheif-1.21.2-alt1.x86_64
+    - libidn-1.37-alt2.x86_64
+    - libiec61883-1.2.0-alt1.qa1.x86_64
+    - libimobiledevice-1.4.0-alt1.x86_64
+    - libiptcdata-1.0.5-alt1.x86_64
+    - libjson-glib-1.10.6-alt1.x86_64
+    - libmysofa-1.3.3-alt1.x86_64
+    - libnatspec-0.3.4-alt1.x86_64
+    - libnss-role-0.5.6-alt4.x86_64
+    - libopenal1-1.22.2-alt2.x86_64
+    - libosinfo-1.12.0-alt1.x86_64
+    - libpango-1.57.0-alt1.x86_64
+    - libplist-2.7.0-alt1.x86_64
+    - libpwquality-1.4.5-alt2.x86_64
+    - libsecret-0.21.6-alt1.x86_64
+    - libserd-0.32.2-alt1.x86_64
+    - libsord-0.16.16-alt1.x86_64
+    - libsoundtouch-2.3.3-alt1.x86_64
+    - libtasn1-utils-4.21.0-alt1.x86_64
+    - libtool-common-0.2.3-alt1.x86_64
+    - libumockdev-0.19.3-alt1.x86_64
+    - liburiparser-0.9.7-alt1.x86_64
+    - libusbmuxd-2.1.1-alt1.x86_64
+    - libversion-tools-3.0.2-alt1.x86_64
+    - libwacom-2.16.1-alt1.x86_64
+    - libwebkitgtk6.0-2.48.1-alt1.x86_64
+    - libxmlsec1-1.2.38-alt1.x86_64
+    - libXpm-3.5.17-alt1.x86_64
+    - libzvbi-0.2.35-alt2.x86_64
+    - lm_sensors3-3.6.0-alt3.x86_64
+    - login-0.60-alt37.x86_64
+    - logrotate-3.20.1-alt2.x86_64
+    - look-2.39.2-alt2.x86_64
+    - losetup-2.39.2-alt2.x86_64
+    - lsblk-2.39.2-alt2.x86_64
+    - lsdvd-0.19-alt1.x86_64
+    - lsof-4.93.2-alt1.x86_64
+    - lvm2-2.03.30-alt1.x86_64
+    - lzop-1.04-alt1.x86_64
+    - m4-1.4.19.0.15.bb35-alt1.x86_64
+    - mailx-8.1.2-alt9.x86_64
+    - make-4.4.0-alt2.x86_64
+    - make-initrd-2.56.0-alt1.x86_64
+    - makemap-8.18.1-alt1.x86_64
+    - mc-4.8.33-alt1.x86_64
+    - mdadm-4.4-alt3.x86_64
+    - mdadm-tool-4.4-alt3.x86_64
+    - mkfontscale-1.2.2-alt1.x86_64
+    - mongo8.0-server-mongod-8.0.12-al...
+    - mount-2.39.2-alt2.x86_64
+    - msulogin-1.0-alt1.x86_64
+    - mtools-4.0.46-alt1.x86_64
+    - mtr-0.96-alt1.x86_64
+    - multipath-tools-0.11.1-alt3.x86_64
+    - mutter-48.5-alt1.x86_64
+    - MySQL-client-8.0.42-alt1.x86_64
+    - MySQL-server-8.0.42-alt1.x86_64
+    - nagios-3.0.6-alt18.x86_64
+    - nano-8.0-alt1.x86_64
+    - nautilus-48.3-alt1.x86_64
+    - ncompress-4.2.4.4-alt1.x86_64
+    - netcat-4.0.20100725-alt3.x86_64
+    - netlist-2.1-alt3.x86_64
+    - net-tools-1.60-alt19.x86_64
+    - NetworkManager-daemon-1.54.3-alt...
+    - nfs-clients-2.7.1-alt1.x86_64
+    - nfs-utils-2.7.1-alt1.x86_64
+    - nftables-1.1.6-alt1.x86_64
+    - nginx-1.28.2-alt1.x86_64
+    - nmap-7.94-alt3.x86_64
+    - nscd-2.38.0.123.650a0-alt1.x86_64
+    - nss-ldapd-0.9.12-alt1.x86_64
+    - ntfs-3g-2022.10.3-alt1.x86_64
+    - ntpdate-4.2.8p18-alt1.x86_64
+    - numactl-2.0.19-alt1.x86_64
+    - nvme-2.15-alt2.x86_64
+    - ofl-20231224-alt1.x86_64
+    - openconnect-9.12-alt3.x86_64
+    - openldap-clients-2.6.9-alt2.x86_64
+    - openldap-servers-2.6.9-alt2.x86_64
+    - openssh-clients-9.6p1-alt5.x86_64
+    - openssh-common-9.6p1-alt5.x86_64
+    - openssh-server-9.6p1-alt5.x86_64
+    - openssl-3.3.3-alt1.x86_64
+    - openvpn-2.6.19-alt1.x86_64
+    - osec-cert-1.3.2.1-alt2.x86_64
+    - osinfo-db-tools-1.12.0-alt1.x86_64
+    - p11-kit-0.25.10-alt2.x86_64
+    - p11-kit-trust-0.25.10-alt2.x86_64
+    - p7zip-17.05-alt2.x86_64
+    - packagekit-1.3.0-alt7.x86_64
+    - pam0_console-1.0.0-alt2.x86_64
+    - pam0_timestamp-1.7.1-alt1.x86_64
+    - pam-1.7.1-alt1.x86_64
+    - pam_mount-2.18-alt1.x86_64
+    - pam_pkcs11-0.6.13.1-alt1.x86_64
+    - papers-48.5-alt1.x86_64
+    - parted-3.6-alt3.x86_64
+    - passwd-1.0.14-alt1.x86_64
+    - passwdqc-utils-2.0.3-alt3.x86_64
+    - patch-2.7.6.0.27.7623-alt1.x86_64
+    - pciutils-3.13.0-alt1.x86_64
+    - pcmciautils-018-alt1.x86_64
+    - pcsc-lite-2.2.2-alt1.x86_64
+    - perf-6.18-alt1.x86_64
+    - perl-base-5.38.4-alt1.x86_64
+    - pinfo-0.6.13-alt3.x86_64
+    - pipewire-1.4.7-alt1.x86_64
+    - pipewire-utils-1.4.7-alt1.x86_64
+    - pkg-config-0.29.2-alt3.x86_64
+    - pmount-0.9.23-alt2.x86_64
+    - pm-utils-1.4.1-alt3.x86_64
+    - polkit-124-alt2.x86_64
+    - poppler-25.07.0-alt4.x86_64
+    - postgresql17-17.7-alt2.x86_64
+    - postgresql17-server-17.7-alt2.x8...
+    - ppp-2.5.2-alt2.x86_64
+    - procmail-3.22-alt11.x86_64
+    - procps-4.0.5-alt3.x86_64
+    - proftpd-1.3.8-alt0.3.ga3489a6c8....
+    - psmisc-23.6-alt3.x86_64
+    - pv-1.8.5-alt1.x86_64
+    - pwgen-2.08-alt1.x86_64
+    - python3-3.12.7-alt1.x86_64
+    - quota-4.06.0.7.100b-alt1.x86_64
+    - redis-7.2.11-alt1.x86_64
+    - redis-cli-7.2.11-alt1.x86_64
+    - reiserfsprogs-3.6.27-alt1.x86_64
+    - remote-polkit-agent-0.1.2-alt2.x...
+    - resize-389-alt1.x86_64
+    - rfkill-2.39.2-alt2.x86_64
+    - rgb-1.0.6-alt3.x86_64
+    - rpcbind-1.2.6-alt1.qa1.x86_64
+    - rpm-4.13.0.1-alt40.x86_64
+    - rpm-build-4.0.4.209-alt1.x86_64
+    - rpm-build-file-4.26-alt18.x86_64
+    - rpmspec-4.13.0.1-alt40.x86_64
+    - rp-pppoe-base-3.15-alt1.x86_64
+    - rsync-3.2.7-alt4.x86_64
+    - rtkit-0.13-alt1.x86_64
+    - rygel-0.44.2-alt1.x86_64
+    - schedutils-2.39.2-alt2.x86_64
+    - screen-4.8.0-alt2.x86_64
+    - sdparm-1.12-alt1.x86_64
+    - sed-4.9.0.32.5420-alt1.x86_64
+    - sendmail-8.18.1-alt1.x86_64
+    - sendmail-submit-8.18.1-alt1.x86_64
+    - service-0.5.34-alt1.x86_64
+    - sessreg-1.1.2-alt1.x86_64
+    - setarch-2.39.2-alt2.x86_64
+    - setxkbmap-1.3.3-alt1.x86_64
+    - sfdisk-2.39.2-alt2.x86_64
+    - sg3_utils-1.48-alt2.x86_64
+    - sh5-5.2.37-alt1.x86_64
+    - shadow-change-4.17.4-alt2.x86_64
+    - shadow-check-4.17.4-alt2.x86_64
+    - shadow-convert-4.17.4-alt2.x86_64
+    - shadow-edit-4.17.4-alt2.x86_64
+    - shadow-groups-4.17.4-alt2.x86_64
+    - shadow-log-4.17.4-alt2.x86_64
+    - shadow-submap-4.17.4-alt2.x86_64
+    - shadow-utils-4.17.4-alt2.x86_64
+    - shared-mime-info-2.4-alt1.x86_64
+    - smartmontools-7.4-alt1.x86_64
+    - socat2-2.0.0-alt7.x86_64
+    - spice-vdagent-0.23.0-alt3.x86_64
+    - sqlite3-3.50.4-alt1.x86_64
+    - strace-6.19-alt1.x86_64
+    - stunnel4-5.72-alt1.x86_64
+    - su-0.60-alt37.x86_64
+    - sudo-1.9.16p2-alt3.x86_64
+    - synaptic-0.58-alt29.x86_64
+    - sysstat-12.7.5-alt1.x86_64
+    - sysvinit-utils-3.00-alt2.x86_64
+    - tar-1.35.0.20.1cdad4cc-alt1.x86_64
+    - tcb-utils-1.2-alt2.x86_64
+    - tcl-8.6.13-alt1.x86_64
+    - tcpdump-4.99.5-alt1.x86_64
+    - tdb-utils-1.4.12-alt1.x86_64
+    - tecla-48.0.2-alt1.x86_64
+    - termutils-6.3.20220618-alt4.x86_64
+    - tigervnc-common-1.15.0-alt1.x86_64
+    - time-1.7-alt4.x86_64
+    - tmux-3.4-alt1.x86_64
+    - totem-video-thumbnailer-43.2-alt...
+    - traceroute-2.1.3-alt1.x86_64
+    - tree-2.1.1-alt2.x86_64
+    - tslib-1.22-alt3.x86_64
+    - udev-257.9-alt1.x86_64
+    - udftools-2.3-alt1.x86_64
+    - udisks2-2.11.0-alt1.x86_64
+    - unrar-6.1.7-alt1.x86_64
+    - unzip-6.0-alt6.x86_64
+    - upower-1.90.10-alt1.x86_64
+    - usbmuxd-1.1.1-alt2.x86_64
+    - usbutils-018-alt2.x86_64
+    - userpasswd-gnome-1.0.1-alt2.x86_64
+    - util-linux-2.39.2-alt2.x86_64
+    - vhttpd-utils-0.7.13-alt2.x86_64
+    - vim-console-9.1.1264-alt1.x86_64
+    - vim-minimal-9.1.1264-alt1.x86_64
+    - vitmp-1.0-alt4.qa1.x86_64
+    - vixie-cron-4.1.20060426-alt10.3....
+    - vpnc-0.5.3-alt7.x86_64
+    - vsftpd-3.0.5-alt1.x86_64
+    - wget-1.25.0-alt4.x86_64
+    - which-2.20-alt2.qa1.x86_64
+    - whois-5.5.18-alt1.x86_64
+    - wireplumber-0.5.11.1.git1bde4f2c...
+    - wireshark-base-4.6.4-alt1.x86_64
+    - wireshark-qt-4.6.4-alt1.x86_64
+    - wlfreerdp3-3.23.0-alt1.x86_64
+    - wm-select-0.9.9-alt1.x86_64
+    - wpa_supplicant-2.10-alt3.x86_64
+    - xauth-1.1.2-alt1.x86_64
+    - xcmsdb-1.0.5-alt1.x86_64
+    - xconsole-1.0.4-alt1.qa1.x86_64
+    - xdg-dbus-proxy-0.1.6-alt1.x86_64
+    - xdg-user-dirs-0.18-alt2.x86_64
+    - xdg-user-dirs-gtk-0.14-alt1.x86_64
+    - xdpyinfo-1.3.0-alt1.x86_64
+    - xf86dga-1.0.3-alt2.x86_64
+    - xfreerdp3-3.23.0-alt1.x86_64
+    - xfsprogs-6.18.0-alt1.x86_64
+    - xgamma-1.0.6-alt1.x86_64
+    - xhost-1.0.5-alt1.x86_64
+    - xinetd-2.3.15-alt6.x86_64
+    - xinit-1.4.1-alt3.x86_64
+    - xinitrc-2.4.47-alt4.x86_64
+    - xkbcomp-1.4.5-alt1.x86_64
+    - xkbevd-1.1.4-alt1.x86_64
+    - xkbprint-1.0.5-alt1.x86_64
+    - xl2tpd-1.3.18-alt3.x86_64
+    - xlsfonts-1.0.6-alt1.x86_64
+    - xmessage-1.0.5-alt1.x86_64
+    - xmlstarlet-1.6.1-alt1.x86_64
+    - xml-utils-2.12.10-alt2.x86_64
+    - xmodmap-1.0.10-alt1.x86_64
+    - xorg-drv-intel-2.99.917-alt1.202...
+    - xorg-drv-synaptics-1.9.1-alt1.x8...
+    - xorg-drv-wacom-0.36.1-alt2.x86_64
+    - xorg-server-21.1.20-alt1.x86_64
+    - xorg-xwayland-24.1.9-alt1.x86_64
+    - xprop-1.2.5-alt1.x86_64
+    - xrandr-1.5.1-alt1.x86_64
+    - xrdb-1.2.1-alt1.x86_64
+    - xrefresh-1.0.6-alt1.x86_64
+    - xset-1.2.4-alt1.x86_64
+    - xsetmode-1.0.0-alt1.1.x86_64
+    - xsetroot-1.1.2-alt1.x86_64
+    - xstdcmap-1.0.4-alt1.x86_64
+    - xterm-389-alt1.x86_64
+    - xvinfo-1.1.4-alt1.x86_64
+    - xxd-9.1.1264-alt1.x86_64
+    - xz-5.4.5-alt1.x86_64
+    - yelp-42.3-alt1.x86_64
+    - zenity-4.0.5-alt1.x86_64
+    - zip-3.0-alt5.x86_64
+    - zstd-1.5.5-alt2.x86_64
+
+-----------------------------
+
+САМАЯ ПОЛНАЯ ГРУППА (по количеству файлов):
+============================================
+Группа: 11111111 (255)
+Количество файлов: 3093
+Уникальных пакетов: 445
+
+Пакеты в самой полной группе:
+- acl-2.3.1.0.20.d265-alt1.x86_64
+- agetty-2.39.2-alt2.x86_64
+- alsa-tools-1.2.5-alt2.x86_64
+- alt-components-0.6.10-alt0.p11.1...
+- alterator-backend-x11-1.98.16-al...
+- alterator-browser-qt6-3.7.6-alt1...
+- alteratorctl-0.2.8-alt0.p11.1.x8...
+- alterator-explorer-0.1.18-alt1.x...
+- alterator-grub-0.29-alt1.x86_64
+- alterator-manager-0.1.31-alt2.x8...
+- alterator-users-10.27-alt2.x86_64
+- alt-packages-0.3.11-alt0.p11.1.x...
+- alt-systeminfo-0.4.12-alt0.p11.1...
+- anacron-2.3-alt7.x86_64
+- apache2-base-2.4.66-alt1.x86_64
+- apt-0.5.15lorg2-alt100.x86_64
+- apt-repo-tools-0.8.1-alt1.x86_64
+- arj-3.10.22-alt9.x86_64
+- attr-2.5.1-alt2.x86_64
+- audit-4.1.3-alt1.x86_64
+- autofs-5.1.9-alt2.x86_64
+- avahi-autoipd-0.8-alt4.x86_64
+- avahi-daemon-0.8-alt4.x86_64
+- avahi-tools-0.8-alt4.x86_64
+- bash5-5.2.37-alt1.x86_64
+- bat-0.25.0-alt2.x86_64
+- bc-1.07.1-alt1.x86_64
+- bind-9.18.44-alt1.x86_64
+- bind-utils-9.18.44-alt1.x86_64
+- binutils-2.41-alt1.x86_64
+- bison-3.8.2-alt1.x86_64
+- bluez-5.85-alt1.x86_64
+- btrfs-progs-6.13-alt1.x86_64
+- bubblewrap-0.11.0-alt1.x86_64
+- bzip2-1.0.8-alt3.x86_64
+- bzip3-1.4.0-alt1.x86_64
+- cfdisk-2.39.2-alt2.x86_64
+- cgdisk-1.0.10-alt1.x86_64
+- cgroup-3.1.0-alt1.x86_64
+- chkconfig-1.3.59-alt4.x86_64
+- chrony-4.8-alt1.x86_64
+- colord-1.4.8-alt1.x86_64
+- conntrack-tools-1.4.8-alt1.x86_64
+- console-vt-tools-2.6.4-alt1.x86_64
+- coreutils-9.4.0.75.7f2c97-alt1.x...
+- cpio-2.15-alt1.x86_64
+- cpupower-6.18-alt1.x86_64
+- cracklib-utils-2.10.3-alt1.x86_64
+- cryptsetup-2.7.4-alt1.x86_64
+- cups-2.4.16-alt2.x86_64
+- curl-8.18.0-alt1.x86_64
+- dbus-1.16.0-alt2.x86_64
+- dbus-tools-1.16.0-alt2.x86_64
+- dbus-tools-gui-1.16.0-alt2.x86_64
+- dconf-0.40.0-alt3.x86_64
+- dconf-editor-45.0.1-alt2.x86_64
+- ddcprobe-3.0-alt1.qa2.x86_64
+- debugedit-5.0.0.27.6dd2-alt1.x86_64
+- dhcpcd-10.2.4-alt1.x86_64
+- dhcp-client-4.4.3.P1-alt2.x86_64
+- dhcp-server-4.4.3.P1-alt2.x86_64
+- diffstat-1.64-alt1.x86_64
+- diffutils-3.10.0.207.774b-alt1.x...
+- dmeventd-1.02.204-alt1.x86_64
+- dmidecode-3.6-alt1.x86_64
+- dmraid-1.0.0.rc16-alt3.x86_64
+- dmsetup-1.02.204-alt1.x86_64
+- dnsmasq-2.92-alt1.x86_64
+- dnsmasq-utils-2.92-alt1.x86_64
+- dosfstools-4.2-alt3.x86_64
+- e2fsprogs-1.47.1.0.10.ad56-alt2....
+- ed-0.2-alt10.x86_64
+- efibootmgr-18-alt1.x86_64
+- eject-2.1.5-alt4.x86_64
+- elfutils-0.191-alt1.x86_64
+- etherwake-1.09-alt1.qa1.x86_64
+- ethtool-6.15-alt1.x86_64
+- exfatprogs-1.2.7-alt1.x86_64
+- expect-5.45.4-alt4.x86_64
+- fakeroot-1.29-alt3.x86_64
+- fatresize-1.0.3-alt13.x86_64
+- fd0ssh-20231224-alt1.x86_64
+- fdisk-2.39.2-alt2.x86_64
+- file-5.45-alt1.x86_64
+- file-roller-44.5-alt1.x86_64
+- findutils-4.9.0.0.9.e5c6-alt1.x8...
+- fixparts-1.0.10-alt1.x86_64
+- flashrom-1.6.0-alt1.x86_64
+- flexiblas-netlib-3.5.0-alt1.x86_64
+- flite-2.2-alt2.x86_64
+- fontconfig-2.17.1-alt2.x86_64
+- fprintd-clients-1.94.5-alt3.x86_64
+- fuse3-3.16.2-alt2.x86_64
+- gawk-5.1.0.0.213.d04f-alt1.x86_64
+- gcc-common-1.4.28-alt1.x86_64
+- gcr-3.41.2-alt1.x86_64
+- gcr4-4.4.0.1-alt1.x86_64
+- gdisk-1.0.10-alt1.x86_64
+- gdm-48.0-alt5.x86_64
+- getopt-2.39.2-alt2.x86_64
+- gettext-0.21-alt2.x86_64
+- gettext-tools-0.21-alt2.x86_64
+- ghostscript-classic-10.06.0-alt1...
+- git-core-2.50.1-alt1.x86_64
+- glibc-core-2.38.0.123.650a0-alt1...
+- glibc-preinstall-2.38.0.123.650a...
+- glibc-timezones-2.38.0.123.650a0...
+- glibc-utils-2.38.0.123.650a0-alt...
+- gnome-bluetooth3.0-47.1-alt2.x86_64
+- gnome-calculator-48.1-alt1.x86_64
+- gnome-calendar-48.1-alt1.x86_64
+- gnome-clocks-48.0-alt1.x86_64
+- gnome-console-48.0.1-alt1.x86_64
+- gnome-control-center-48.4-alt1.x...
+- gnome-disk-utility-46.1-alt1.1.x...
+- gnome-keyring-48.0-alt1.x86_64
+- gnome-remote-desktop-48.1-alt1.x...
+- gnome-session-48.0-alt1.x86_64
+- gnome-shell-48.5-alt1.x86_64
+- gnome-system-monitor-49.1-alt1.x...
+- gnupg-1.4.23-alt4.x86_64
+- gnupg2-2.4.3-alt1.x86_64
+- gnutls-utils-3.8.12-alt1.x86_64
+- gostsum-3.0.2-alt5.x86_64
+- grep-3.11.0.20.dd8f-alt1.x86_64
+- groff-base-1.22.3-alt2.x86_64
+- grub-common-2.12-alt14.x86_64
+- gst-devtools-1.26.10-alt1.x86_64
+- gtk4-update-icon-cache-4.20.3-al...
+- gucharmap-16.0.2-alt1.x86_64
+- guile22-2.2.7-alt1.x86_64
+- gzip-1.13-alt3.x86_64
+- haproxy-3.0.12-alt1.x86_64
+- hddtemp-0.4.4-alt1.x86_64
+- hdparm-9.62-alt1.x86_64
+- hostinfo-2.2-alt7.x86_64
+- htop-3.3.0-alt1.x86_64
+- hwclock-2.39.2-alt2.x86_64
+- ibus-1.5.32-alt1.x86_64
+- iceauth-1.0.9-alt1.x86_64
+- iconv-2.38.0.123.650a0-alt1.x86_64
+- ifrename-29-alt11.x86_64
+- iftop-0.17-alt5.x86_64
+- iio-sensor-proxy-3.7-alt1.x86_64
+- im-chooser-1.7.4-alt1_5.x86_64
+- imsettings-1.8.9-alt1.x86_64
+- info-7.1-alt1.x86_64
+- info-install-7.1-alt1.x86_64
+- ipmitool-1.8.19-alt1.x86_64
+- iproute2-6.12.0-alt1.x86_64
+- iptables-1.8.10-alt1.x86_64
+- iputils-20250605-alt1.x86_64
+- iucode_tool-2.3.1-alt2.x86_64
+- iw-6.9-alt1.x86_64
+- jfsutils-1.1.15-alt4.x86_64
+- jq-1.8.1-alt1.x86_64
+- kbd-2.6.4-alt1.x86_64
+- keyutils-1.6.3-alt1.x86_64
+- kmod-31-alt1.x86_64
+- kpartx-0.11.1-alt3.x86_64
+- krb5-kinit-1.21.3-alt2.x86_64
+- krb5-ticket-watcher-1.0.3-alt30....
+- less-633-alt1.x86_64
+- lft-3.8-alt1.x86_64
+- lftp-4.9.2-alt1.x86_64
+- lha-1.14i-alt3.x86_64
+- libatasmart-0.19-alt1.x86_64
+- libblockdev-tools-3.4.0-alt1.x86_64
+- libcamera-0.5.1-alt2.x86_64
+- libcanberra-0.30-alt3.x86_64
+- libcanberra-gtk3-0.30-alt3.x86_64
+- libcap-utils-2.69-alt2.x86_64
+- libcdio-paranoia-10.2.2.0.2-alt1...
+- libcolord-gtk-0.3.1-alt1.x86_64
+- libdisplay-info-0.2.0-alt1.x86_64
+- libevdev-1.13.4-alt1.x86_64
+- libexempi-2.6.5-alt1.x86_64
+- libgdk-pixbuf-2.44.4-alt1.x86_64
+- libgio-2.84.4-alt1.x86_64
+- libgjs-1.84.2-alt1.x86_64
+- libgpg-error-1.47-alt1.x86_64
+- libgsf-1.14.53-alt1.x86_64
+- libgtk+2-2.24.33-alt2.x86_64
+- libgtk+3-3.24.51-alt1.x86_64
+- libgtk4-4.20.3-alt1.x86_64
+- libgupnp-dlna-0.12.0-alt2.x86_64
+- libheif-1.21.2-alt1.x86_64
+- libidn-1.37-alt2.x86_64
+- libiec61883-1.2.0-alt1.qa1.x86_64
+- libimobiledevice-1.4.0-alt1.x86_64
+- libiptcdata-1.0.5-alt1.x86_64
+- libjson-glib-1.10.6-alt1.x86_64
+- libmysofa-1.3.3-alt1.x86_64
+- libnatspec-0.3.4-alt1.x86_64
+- libnss-role-0.5.6-alt4.x86_64
+- libopenal1-1.22.2-alt2.x86_64
+- libosinfo-1.12.0-alt1.x86_64
+- libpango-1.57.0-alt1.x86_64
+- libplist-2.7.0-alt1.x86_64
+- libpwquality-1.4.5-alt2.x86_64
+- libsecret-0.21.6-alt1.x86_64
+- libserd-0.32.2-alt1.x86_64
+- libsord-0.16.16-alt1.x86_64
+- libsoundtouch-2.3.3-alt1.x86_64
+- libtasn1-utils-4.21.0-alt1.x86_64
+- libtool-common-0.2.3-alt1.x86_64
+- libumockdev-0.19.3-alt1.x86_64
+- liburiparser-0.9.7-alt1.x86_64
+- libusbmuxd-2.1.1-alt1.x86_64
+- libversion-tools-3.0.2-alt1.x86_64
+- libwacom-2.16.1-alt1.x86_64
+- libwebkitgtk6.0-2.48.1-alt1.x86_64
+- libxmlsec1-1.2.38-alt1.x86_64
+- libXpm-3.5.17-alt1.x86_64
+- libzvbi-0.2.35-alt2.x86_64
+- lm_sensors3-3.6.0-alt3.x86_64
+- login-0.60-alt37.x86_64
+- logrotate-3.20.1-alt2.x86_64
+- look-2.39.2-alt2.x86_64
+- losetup-2.39.2-alt2.x86_64
+- lsblk-2.39.2-alt2.x86_64
+- lsdvd-0.19-alt1.x86_64
+- lsof-4.93.2-alt1.x86_64
+- lvm2-2.03.30-alt1.x86_64
+- lzop-1.04-alt1.x86_64
+- m4-1.4.19.0.15.bb35-alt1.x86_64
+- mailx-8.1.2-alt9.x86_64
+- make-4.4.0-alt2.x86_64
+- make-initrd-2.56.0-alt1.x86_64
+- makemap-8.18.1-alt1.x86_64
+- mc-4.8.33-alt1.x86_64
+- mdadm-4.4-alt3.x86_64
+- mdadm-tool-4.4-alt3.x86_64
+- mkfontscale-1.2.2-alt1.x86_64
+- mongo8.0-server-mongod-8.0.12-al...
+- mount-2.39.2-alt2.x86_64
+- msulogin-1.0-alt1.x86_64
+- mtools-4.0.46-alt1.x86_64
+- mtr-0.96-alt1.x86_64
+- multipath-tools-0.11.1-alt3.x86_64
+- mutter-48.5-alt1.x86_64
+- MySQL-client-8.0.42-alt1.x86_64
+- MySQL-server-8.0.42-alt1.x86_64
+- nagios-3.0.6-alt18.x86_64
+- nano-8.0-alt1.x86_64
+- nautilus-48.3-alt1.x86_64
+- ncompress-4.2.4.4-alt1.x86_64
+- netcat-4.0.20100725-alt3.x86_64
+- netlist-2.1-alt3.x86_64
+- net-tools-1.60-alt19.x86_64
+- NetworkManager-daemon-1.54.3-alt...
+- nfs-clients-2.7.1-alt1.x86_64
+- nfs-utils-2.7.1-alt1.x86_64
+- nftables-1.1.6-alt1.x86_64
+- nginx-1.28.2-alt1.x86_64
+- nmap-7.94-alt3.x86_64
+- nscd-2.38.0.123.650a0-alt1.x86_64
+- nss-ldapd-0.9.12-alt1.x86_64
+- ntfs-3g-2022.10.3-alt1.x86_64
+- ntpdate-4.2.8p18-alt1.x86_64
+- numactl-2.0.19-alt1.x86_64
+- nvme-2.15-alt2.x86_64
+- ofl-20231224-alt1.x86_64
+- openconnect-9.12-alt3.x86_64
+- openldap-clients-2.6.9-alt2.x86_64
+- openldap-servers-2.6.9-alt2.x86_64
+- openssh-clients-9.6p1-alt5.x86_64
+- openssh-common-9.6p1-alt5.x86_64
+- openssh-server-9.6p1-alt5.x86_64
+- openssl-3.3.3-alt1.x86_64
+- openvpn-2.6.19-alt1.x86_64
+- osec-cert-1.3.2.1-alt2.x86_64
+- osinfo-db-tools-1.12.0-alt1.x86_64
+- p11-kit-0.25.10-alt2.x86_64
+- p11-kit-trust-0.25.10-alt2.x86_64
+- p7zip-17.05-alt2.x86_64
+- packagekit-1.3.0-alt7.x86_64
+- pam0_console-1.0.0-alt2.x86_64
+- pam0_timestamp-1.7.1-alt1.x86_64
+- pam-1.7.1-alt1.x86_64
+- pam_mount-2.18-alt1.x86_64
+- pam_pkcs11-0.6.13.1-alt1.x86_64
+- papers-48.5-alt1.x86_64
+- parted-3.6-alt3.x86_64
+- passwd-1.0.14-alt1.x86_64
+- passwdqc-utils-2.0.3-alt3.x86_64
+- patch-2.7.6.0.27.7623-alt1.x86_64
+- pciutils-3.13.0-alt1.x86_64
+- pcmciautils-018-alt1.x86_64
+- pcsc-lite-2.2.2-alt1.x86_64
+- perf-6.18-alt1.x86_64
+- perl-base-5.38.4-alt1.x86_64
+- pinfo-0.6.13-alt3.x86_64
+- pipewire-1.4.7-alt1.x86_64
+- pipewire-utils-1.4.7-alt1.x86_64
+- pkg-config-0.29.2-alt3.x86_64
+- pmount-0.9.23-alt2.x86_64
+- pm-utils-1.4.1-alt3.x86_64
+- polkit-124-alt2.x86_64
+- poppler-25.07.0-alt4.x86_64
+- postgresql17-17.7-alt2.x86_64
+- postgresql17-server-17.7-alt2.x8...
+- ppp-2.5.2-alt2.x86_64
+- procmail-3.22-alt11.x86_64
+- procps-4.0.5-alt3.x86_64
+- proftpd-1.3.8-alt0.3.ga3489a6c8....
+- psmisc-23.6-alt3.x86_64
+- pv-1.8.5-alt1.x86_64
+- pwgen-2.08-alt1.x86_64
+- python3-3.12.7-alt1.x86_64
+- quota-4.06.0.7.100b-alt1.x86_64
+- redis-7.2.11-alt1.x86_64
+- redis-cli-7.2.11-alt1.x86_64
+- reiserfsprogs-3.6.27-alt1.x86_64
+- remote-polkit-agent-0.1.2-alt2.x...
+- resize-389-alt1.x86_64
+- rfkill-2.39.2-alt2.x86_64
+- rgb-1.0.6-alt3.x86_64
+- rpcbind-1.2.6-alt1.qa1.x86_64
+- rpm-4.13.0.1-alt40.x86_64
+- rpm-build-4.0.4.209-alt1.x86_64
+- rpm-build-file-4.26-alt18.x86_64
+- rpmspec-4.13.0.1-alt40.x86_64
+- rp-pppoe-base-3.15-alt1.x86_64
+- rsync-3.2.7-alt4.x86_64
+- rtkit-0.13-alt1.x86_64
+- rygel-0.44.2-alt1.x86_64
+- schedutils-2.39.2-alt2.x86_64
+- screen-4.8.0-alt2.x86_64
+- sdparm-1.12-alt1.x86_64
+- sed-4.9.0.32.5420-alt1.x86_64
+- sendmail-8.18.1-alt1.x86_64
+- sendmail-submit-8.18.1-alt1.x86_64
+- service-0.5.34-alt1.x86_64
+- sessreg-1.1.2-alt1.x86_64
+- setarch-2.39.2-alt2.x86_64
+- setxkbmap-1.3.3-alt1.x86_64
+- sfdisk-2.39.2-alt2.x86_64
+- sg3_utils-1.48-alt2.x86_64
+- sh5-5.2.37-alt1.x86_64
+- shadow-change-4.17.4-alt2.x86_64
+- shadow-check-4.17.4-alt2.x86_64
+- shadow-convert-4.17.4-alt2.x86_64
+- shadow-edit-4.17.4-alt2.x86_64
+- shadow-groups-4.17.4-alt2.x86_64
+- shadow-log-4.17.4-alt2.x86_64
+- shadow-submap-4.17.4-alt2.x86_64
+- shadow-utils-4.17.4-alt2.x86_64
+- shared-mime-info-2.4-alt1.x86_64
+- smartmontools-7.4-alt1.x86_64
+- socat2-2.0.0-alt7.x86_64
+- spice-vdagent-0.23.0-alt3.x86_64
+- sqlite3-3.50.4-alt1.x86_64
+- strace-6.19-alt1.x86_64
+- stunnel4-5.72-alt1.x86_64
+- su-0.60-alt37.x86_64
+- sudo-1.9.16p2-alt3.x86_64
+- synaptic-0.58-alt29.x86_64
+- sysstat-12.7.5-alt1.x86_64
+- sysvinit-utils-3.00-alt2.x86_64
+- tar-1.35.0.20.1cdad4cc-alt1.x86_64
+- tcb-utils-1.2-alt2.x86_64
+- tcl-8.6.13-alt1.x86_64
+- tcpdump-4.99.5-alt1.x86_64
+- tdb-utils-1.4.12-alt1.x86_64
+- tecla-48.0.2-alt1.x86_64
+- termutils-6.3.20220618-alt4.x86_64
+- tigervnc-common-1.15.0-alt1.x86_64
+- time-1.7-alt4.x86_64
+- tmux-3.4-alt1.x86_64
+- totem-video-thumbnailer-43.2-alt...
+- traceroute-2.1.3-alt1.x86_64
+- tree-2.1.1-alt2.x86_64
+- tslib-1.22-alt3.x86_64
+- udev-257.9-alt1.x86_64
+- udftools-2.3-alt1.x86_64
+- udisks2-2.11.0-alt1.x86_64
+- unrar-6.1.7-alt1.x86_64
+- unzip-6.0-alt6.x86_64
+- upower-1.90.10-alt1.x86_64
+- usbmuxd-1.1.1-alt2.x86_64
+- usbutils-018-alt2.x86_64
+- userpasswd-gnome-1.0.1-alt2.x86_64
+- util-linux-2.39.2-alt2.x86_64
+- vhttpd-utils-0.7.13-alt2.x86_64
+- vim-console-9.1.1264-alt1.x86_64
+- vim-minimal-9.1.1264-alt1.x86_64
+- vitmp-1.0-alt4.qa1.x86_64
+- vixie-cron-4.1.20060426-alt10.3....
+- vpnc-0.5.3-alt7.x86_64
+- vsftpd-3.0.5-alt1.x86_64
+- wget-1.25.0-alt4.x86_64
+- which-2.20-alt2.qa1.x86_64
+- whois-5.5.18-alt1.x86_64
+- wireplumber-0.5.11.1.git1bde4f2c...
+- wireshark-base-4.6.4-alt1.x86_64
+- wireshark-qt-4.6.4-alt1.x86_64
+- wlfreerdp3-3.23.0-alt1.x86_64
+- wm-select-0.9.9-alt1.x86_64
+- wpa_supplicant-2.10-alt3.x86_64
+- xauth-1.1.2-alt1.x86_64
+- xcmsdb-1.0.5-alt1.x86_64
+- xconsole-1.0.4-alt1.qa1.x86_64
+- xdg-dbus-proxy-0.1.6-alt1.x86_64
+- xdg-user-dirs-0.18-alt2.x86_64
+- xdg-user-dirs-gtk-0.14-alt1.x86_64
+- xdpyinfo-1.3.0-alt1.x86_64
+- xf86dga-1.0.3-alt2.x86_64
+- xfreerdp3-3.23.0-alt1.x86_64
+- xfsprogs-6.18.0-alt1.x86_64
+- xgamma-1.0.6-alt1.x86_64
+- xhost-1.0.5-alt1.x86_64
+- xinetd-2.3.15-alt6.x86_64
+- xinit-1.4.1-alt3.x86_64
+- xinitrc-2.4.47-alt4.x86_64
+- xkbcomp-1.4.5-alt1.x86_64
+- xkbevd-1.1.4-alt1.x86_64
+- xkbprint-1.0.5-alt1.x86_64
+- xl2tpd-1.3.18-alt3.x86_64
+- xlsfonts-1.0.6-alt1.x86_64
+- xmessage-1.0.5-alt1.x86_64
+- xmlstarlet-1.6.1-alt1.x86_64
+- xml-utils-2.12.10-alt2.x86_64
+- xmodmap-1.0.10-alt1.x86_64
+- xorg-drv-intel-2.99.917-alt1.202...
+- xorg-drv-synaptics-1.9.1-alt1.x8...
+- xorg-drv-wacom-0.36.1-alt2.x86_64
+- xorg-server-21.1.20-alt1.x86_64
+- xorg-xwayland-24.1.9-alt1.x86_64
+- xprop-1.2.5-alt1.x86_64
+- xrandr-1.5.1-alt1.x86_64
+- xrdb-1.2.1-alt1.x86_64
+- xrefresh-1.0.6-alt1.x86_64
+- xset-1.2.4-alt1.x86_64
+- xsetmode-1.0.0-alt1.1.x86_64
+- xsetroot-1.1.2-alt1.x86_64
+- xstdcmap-1.0.4-alt1.x86_64
+- xterm-389-alt1.x86_64
+- xvinfo-1.1.4-alt1.x86_64
+- xxd-9.1.1264-alt1.x86_64
+- xz-5.4.5-alt1.x86_64
+- yelp-42.3-alt1.x86_64
+- zenity-4.0.5-alt1.x86_64
+- zip-3.0-alt5.x86_64
+- zstd-1.5.5-alt2.x86_64
