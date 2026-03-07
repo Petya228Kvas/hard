@@ -1,0 +1,1029 @@
+АНАЛИЗ ГРУПП ЗАЩИТ (8 защит = 256 возможных групп)
+==================================================
+Дата анализа: Сб мар  7 17:46:17 +07 2026
+Всего обработано строк: 1998
+Всего файлов: 1998
+
+Список всех найденных групп:
+-----------------------------
+Группа 01111111 (127):
+  Файлов: 1
+  Уникальных пакетов: 1
+  Защиты: CANARY FORTIFY NX PIE RELRO RPATH RUNPATH 
+  Пакеты:
+    - dnsmasq-utils
+
+Группа 10010111 (151):
+  Файлов: 1
+  Уникальных пакетов: 1
+  Защиты: CANARY FORTIFY NX RELRO SYMBOLS 
+  Пакеты:
+    - libc-bin
+
+Группа 10111101 (189):
+  Файлов: 4
+  Уникальных пакетов: 4
+  Защиты: CANARY NX PIE RELRO RPATH SYMBOLS 
+  Пакеты:
+    - fly-admin-gmc
+    - lp-solve
+    - man-db
+    - qtcreator
+
+Группа 10111111 (191):
+  Файлов: 104
+  Уникальных пакетов: 22
+  Защиты: CANARY FORTIFY NX PIE RELRO RPATH SYMBOLS 
+  Пакеты:
+    - 389-ds-base
+    - charon-cmd
+    - charon-systemd
+    - ctdb
+    - ebtables
+    - inkscape
+    - man-db
+    - pulseaudio
+    - pulseaudio-utils
+    - qmmp
+    - recollcmd
+    - recollgui
+    - registry-tools
+    - samba
+    - samba-common-bin
+    - samba-testsuite
+    - smbclient
+    - sssd-common
+    - strongswan-swanctl
+    - sudo
+    - systemd
+    - winbind
+
+Группа 11110101 (245):
+  Файлов: 21
+  Уникальных пакетов: 5
+  Защиты: CANARY NX RELRO RPATH RUNPATH SYMBOLS 
+  Пакеты:
+    - cpp-6
+    - g++-6
+    - gcc-6
+    - libc-bin
+    - libc-dev-bin
+
+Группа 11110111 (247):
+  Файлов: 14
+  Уникальных пакетов: 2
+  Защиты: CANARY FORTIFY NX RELRO RPATH RUNPATH SYMBOLS 
+  Пакеты:
+    - bash
+    - poppler-utils
+
+Группа 11111101 (253):
+  Файлов: 273
+  Уникальных пакетов: 109
+  Защиты: CANARY NX PIE RELRO RPATH RUNPATH SYMBOLS 
+  Пакеты:
+    - apt
+    - apt-utils
+    - ark
+    - arptables
+    - astra-freeipa-data
+    - astra-openvpn-server
+    - astra-orientation
+    - astra-safepolicy
+    - bind9
+    - bind9-host
+    - bind9utils
+    - binutils
+    - bsdmainutils
+    - debianutils
+    - desktop-file-utils
+    - djvulibre-bin
+    - dnsutils
+    - dvd+rw-tools
+    - fly-admin-alternatives
+    - fly-admin-autostart
+    - fly-admin-cron
+    - fly-admin-date
+    - fly-admin-env
+    - fly-admin-fonts
+    - fly-admin-iso
+    - fly-admin-multiseat
+    - fly-admin-network
+    - fly-admin-policykit-1
+    - fly-admin-reflex
+    - fly-admin-repo
+    - fly-admin-time
+    - fly-admin-wm
+    - fly-brightness
+    - fly-contacts
+    - fly-date
+    - fly-fm
+    - fly-fm-libs
+    - fly-gallery
+    - fly-gps
+    - fly-jobviewer
+    - fly-music
+    - fly-orientation
+    - fly-pdfview
+    - fly-print-monitor
+    - fly-qml-dialer
+    - fly-record
+    - fly-reflex-service
+    - fly-scan
+    - fly-search
+    - fly-sms
+    - fly-term
+    - fly-update-notifier
+    - fly-videocamera
+    - fly-winprops-service
+    - fly-wm
+    - frox
+    - genisoimage
+    - ghostscript
+    - gpm
+    - growisofs
+    - gtk-update-icon-cache
+    - gwenview
+    - hpsockd
+    - ifrename
+    - input-utils
+    - iproute2
+    - ipvsadm
+    - k3b
+    - kate
+    - kgamma5
+    - kgpg
+    - kinfocenter
+    - kio
+    - kmix
+    - kolourpaint
+    - kpackagetool5
+    - krdc
+    - kscreen
+    - ksysguard
+    - libflythumbnails2
+    - libident
+    - libkf5screen-bin
+    - livemedia-utils
+    - lockfile-progs
+    - lpr
+    - menu
+    - ntfs-3g
+    - okular
+    - openmpi-bin
+    - patch
+    - pgagent
+    - qapt-deb-installer
+    - qdbm-util
+    - qtnotifydaemon
+    - rsh-client
+    - rsh-server
+    - shared-mime-info
+    - sqlite
+    - synaptic
+    - systemdgenie
+    - systray-x-minimal
+    - udisks2
+    - wireless-tools
+    - wodim
+    - wxmaxima
+    - xbacklight
+    - xkbset
+    - xl2tpd
+    - xosd-bin
+
+Группа 11111111 (255):
+  Файлов: 1580
+  Уникальных пакетов: 410
+  Защиты: CANARY FORTIFY NX PIE RELRO RPATH RUNPATH SYMBOLS 
+  Пакеты:
+    - 389-ds-base
+    - acl
+    - acpi
+    - acpid
+    - aft-mtp-mount
+    - alsa-utils
+    - amqp-tools
+    - anacron
+    - antiword
+    - apache2-bin
+    - apache2-utils
+    - apt
+    - aptitude
+    - apt-utils
+    - archivemount
+    - aspell
+    - atftp
+    - atftpd
+    - atm-tools
+    - attr
+    - audacity
+    - avahi-autoipd
+    - avahi-daemon
+    - avahi-dnsconfd
+    - avahi-utils
+    - base-passwd
+    - bc
+    - bcrelay
+    - blender
+    - br2684ctl
+    - bridge-utils
+    - bsd-mailx
+    - bsdmainutils
+    - bsdutils
+    - bsign
+    - busybox
+    - bzip2
+    - ccrypt
+    - certmonger
+    - chezdav
+    - clementine
+    - cmst
+    - connman
+    - connman-vpn
+    - coreutils
+    - cpio
+    - cracklib-runtime
+    - cron
+    - cryptsetup-bin
+    - cups
+    - cups-browsed
+    - cups-client
+    - cups-daemon
+    - cups-filters
+    - cups-ipp-utils
+    - cups-ppdc
+    - curl
+    - curlftpfs
+    - dash
+    - db5.3-sql-util
+    - db5.3-util
+    - dbus
+    - dbus-x11
+    - dctrl-tools
+    - debianutils
+    - desktop-file-utils
+    - diffutils
+    - dirmngr
+    - djvulibre-bin
+    - dmeventd
+    - dmidecode
+    - dmsetup
+    - dnet-progs
+    - dnsmasq-base
+    - dnsmasq-utils
+    - dosfstools
+    - dpkg
+    - dwz
+    - e2fsprogs
+    - ecryptfs-utils
+    - eject
+    - ethtool
+    - exfat-fuse
+    - exim4-base
+    - exim4-daemon-light
+    - expect
+    - fakeroot
+    - file
+    - findutils
+    - firebird3.0-server
+    - firebird3.0-utils
+    - firejail
+    - fly-admin-autostart
+    - fly-admin-center
+    - fly-admin-device-manager
+    - fly-admin-dm
+    - fly-admin-format
+    - fly-admin-int-check
+    - fly-admin-printer
+    - fly-admin-sourcelist
+    - fly-admin-usbip
+    - fly-admin-winprops
+    - fly-admin-wm
+    - fly-calc
+    - fly-camera
+    - fly-dm
+    - fly-fm
+    - fly-fm-libs
+    - fly-launcher
+    - fly-notes
+    - fly-passwd
+    - fly-print-monitor
+    - fly-qdm
+    - fly-run
+    - fly-shutdown-dialog
+    - fly-start-panel
+    - fly-su
+    - flyui-utils
+    - fly-vkbd
+    - fly-weather
+    - fly-wm
+    - fly-xkbmap
+    - fontconfig
+    - fping
+    - freerdp2-x11
+    - freetds-bin
+    - ftp
+    - fuse
+    - galera-arbitrator-3
+    - gawk
+    - gcr
+    - geoip-bin
+    - gettext
+    - gettext-base
+    - gimp
+    - git
+    - glusterfs-common
+    - gnome-keyring
+    - gnupg-utils
+    - gnutls-bin
+    - goldendict
+    - gostsum
+    - gparted
+    - gpg
+    - gpg-agent
+    - gpgconf
+    - gpgsm
+    - gpgv
+    - gpg-wks-server
+    - gpsd
+    - grep
+    - groff-base
+    - grub2-common
+    - grub-common
+    - gssproxy
+    - guvcview
+    - gzip
+    - haproxy
+    - haveged
+    - heimdal-clients
+    - heimdal-kcm
+    - heimdal-kdc
+    - hostapd
+    - hostname
+    - ibverbs-utils
+    - iftop
+    - ifupdown
+    - iio-sensor-proxy
+    - imagemagick-6.q16
+    - info
+    - inotify-tools
+    - install-info
+    - iperf
+    - ipset
+    - iptables
+    - iptables-nftables-compat
+    - iputils-arping
+    - iputils-clockdiff
+    - iputils-ping
+    - iputils-tracepath
+    - isc-dhcp-relay
+    - isc-dhcp-server
+    - iscsiuio
+    - iw
+    - kbd
+    - kcm-mouse
+    - kcmshell
+    - kcm-touchpad
+    - kde-spectacle
+    - keyutils
+    - kio
+    - kmod
+    - krb5-gss-samples
+    - ksysguardd
+    - lame
+    - ldap-utils
+    - ldm
+    - ldnsutils
+    - less
+    - lftp
+    - libarchive-tools
+    - libcap2-bin
+    - libecpg-dev
+    - libfabric1
+    - libflygetexe-bin
+    - libflythumbnails2
+    - libhsm-bin
+    - libiscsi-bin
+    - libkf5config-bin
+    - libkf5globalaccel-bin
+    - libkf5service-bin
+    - liblockfile-bin
+    - libmbim-utils
+    - libndp-tools
+    - libnotify-bin
+    - libnss3-tools
+    - libpam-modules-bin
+    - libperl5.24
+    - libpwquality-tools
+    - libqapt3-runtime
+    - libqmi-utils
+    - librsvg2-bin
+    - libteam-utils
+    - libwpd-tools
+    - lighttpd
+    - livemedia-utils
+    - lksctp-tools
+    - lmdb-utils
+    - login
+    - logrotate
+    - lpr
+    - lsof
+    - ltspfs
+    - ltspfsd-core
+    - lvm2
+    - m4
+    - make
+    - mariadb-client-10.1
+    - mariadb-client-core-10.1
+    - mariadb-plugin-tokudb
+    - mariadb-server-10.1
+    - mariadb-server-core-10.1
+    - mariadb-test
+    - mawk
+    - mc
+    - memcached
+    - mesa-utils
+    - miniupnpc
+    - mmdb-bin
+    - modemmanager
+    - mount
+    - mtdev-tools
+    - mtools
+    - mtr
+    - nano
+    - ncurses-bin
+    - ndisc6
+    - netcat-openbsd
+    - netcat-traditional
+    - net-tools
+    - network-manager
+    - nfs-common
+    - nfs-kernel-server
+    - nghttp2-client
+    - nghttp2-proxy
+    - nghttp2-server
+    - nginx-core
+    - nmap
+    - ntfs-3g
+    - ntpdate
+    - odbcinst
+    - oddjob
+    - ofono
+    - openbsd-inetd
+    - openconnect
+    - opendnssec-enforcer-sqlite3
+    - opendnssec-signer
+    - open-iscsi
+    - open-isns-discoveryd
+    - open-isns-server
+    - open-isns-utils
+    - openmpi-bin
+    - openntpd
+    - opensc
+    - openssh-client
+    - openssh-client-ssh1
+    - openssh-server
+    - openssl
+    - openvpn
+    - p11-kit
+    - parted
+    - passwd
+    - pavucontrol-qt
+    - pciutils
+    - pcscd
+    - pdns-backend-ldap
+    - pdns-server
+    - pdns-tools
+    - perl-base
+    - pgadmin3
+    - pgpool2
+    - php7.0-cli
+    - picom
+    - pinentry-curses
+    - pinentry-gnome3
+    - pinentry-qt
+    - plymouth
+    - policycoreutils
+    - policykit-1
+    - powertop
+    - ppp
+    - pptpd
+    - pptp-linux
+    - printer-driver-hpijs
+    - procps
+    - psi-plus
+    - psi-plus-webkit
+    - psl
+    - psmisc
+    - pstotext
+    - putty
+    - putty-tools
+    - python2.7-minimal
+    - python3.5-minimal
+    - qbat
+    - qbittorrent
+    - qbittorrent-nox
+    - qtchooser
+    - quota
+    - radvd
+    - rdate
+    - rdmacm-utils
+    - redis-tools
+    - reprepro
+    - riemann-c-client
+    - rpcbind
+    - rsync
+    - rsyslog
+    - ruby2.3
+    - sed
+    - selinux-utils
+    - slapd
+    - slapi-nis
+    - slony1-2-bin
+    - smbnetfs
+    - snmp
+    - snmpd
+    - sntp
+    - socat
+    - softhsm2
+    - sox
+    - spawn-fcgi
+    - speedcrunch
+    - sqlite3
+    - sqlite3-tools
+    - sshfs
+    - sysvinit-utils
+    - tar
+    - tcpd
+    - tdb-tools
+    - telnet
+    - time
+    - traceroute
+    - udev
+    - udisks2
+    - unixodbc
+    - unrar
+    - unrtf
+    - untex
+    - unzip
+    - upower
+    - usb-modeswitch
+    - usbutils
+    - util-linux
+    - vim
+    - vim-tiny
+    - vlc-bin
+    - vorbis-tools
+    - weston
+    - wget
+    - whiptail
+    - whois
+    - wpasupplicant
+    - x11-apps
+    - x11-session-utils
+    - x11-utils
+    - x11-xkb-utils
+    - x11-xserver-utils
+    - xauth
+    - xca
+    - xdg-user-dirs
+    - xembed-sni-proxy
+    - xfonts-utils
+    - xinit
+    - xinput
+    - xl2tpd
+    - xserver-xephyr
+    - xserver-xorg-core
+    - xserver-xorg-input-synaptics
+    - xserver-xorg-input-wacom
+    - xserver-xorg-video-intel
+    - xserver-xorg-video-vmware
+    - xterm
+    - xwayland
+    - xz-utils
+    - yelp
+    - zip
+    - отклонено isc-dhcp-client-ddns и...
+    - отклонено isc-dhcp-server-ldap и...
+    - отклонено postgresql-common из /...
+
+-----------------------------
+
+САМАЯ ПОЛНАЯ ГРУППА (по количеству файлов):
+============================================
+Группа: 11111111 (255)
+Количество файлов: 1580
+Уникальных пакетов: 410
+
+Пакеты в самой полной группе:
+- 389-ds-base
+- acl
+- acpi
+- acpid
+- aft-mtp-mount
+- alsa-utils
+- amqp-tools
+- anacron
+- antiword
+- apache2-bin
+- apache2-utils
+- apt
+- aptitude
+- apt-utils
+- archivemount
+- aspell
+- atftp
+- atftpd
+- atm-tools
+- attr
+- audacity
+- avahi-autoipd
+- avahi-daemon
+- avahi-dnsconfd
+- avahi-utils
+- base-passwd
+- bc
+- bcrelay
+- blender
+- br2684ctl
+- bridge-utils
+- bsd-mailx
+- bsdmainutils
+- bsdutils
+- bsign
+- busybox
+- bzip2
+- ccrypt
+- certmonger
+- chezdav
+- clementine
+- cmst
+- connman
+- connman-vpn
+- coreutils
+- cpio
+- cracklib-runtime
+- cron
+- cryptsetup-bin
+- cups
+- cups-browsed
+- cups-client
+- cups-daemon
+- cups-filters
+- cups-ipp-utils
+- cups-ppdc
+- curl
+- curlftpfs
+- dash
+- db5.3-sql-util
+- db5.3-util
+- dbus
+- dbus-x11
+- dctrl-tools
+- debianutils
+- desktop-file-utils
+- diffutils
+- dirmngr
+- djvulibre-bin
+- dmeventd
+- dmidecode
+- dmsetup
+- dnet-progs
+- dnsmasq-base
+- dnsmasq-utils
+- dosfstools
+- dpkg
+- dwz
+- e2fsprogs
+- ecryptfs-utils
+- eject
+- ethtool
+- exfat-fuse
+- exim4-base
+- exim4-daemon-light
+- expect
+- fakeroot
+- file
+- findutils
+- firebird3.0-server
+- firebird3.0-utils
+- firejail
+- fly-admin-autostart
+- fly-admin-center
+- fly-admin-device-manager
+- fly-admin-dm
+- fly-admin-format
+- fly-admin-int-check
+- fly-admin-printer
+- fly-admin-sourcelist
+- fly-admin-usbip
+- fly-admin-winprops
+- fly-admin-wm
+- fly-calc
+- fly-camera
+- fly-dm
+- fly-fm
+- fly-fm-libs
+- fly-launcher
+- fly-notes
+- fly-passwd
+- fly-print-monitor
+- fly-qdm
+- fly-run
+- fly-shutdown-dialog
+- fly-start-panel
+- fly-su
+- flyui-utils
+- fly-vkbd
+- fly-weather
+- fly-wm
+- fly-xkbmap
+- fontconfig
+- fping
+- freerdp2-x11
+- freetds-bin
+- ftp
+- fuse
+- galera-arbitrator-3
+- gawk
+- gcr
+- geoip-bin
+- gettext
+- gettext-base
+- gimp
+- git
+- glusterfs-common
+- gnome-keyring
+- gnupg-utils
+- gnutls-bin
+- goldendict
+- gostsum
+- gparted
+- gpg
+- gpg-agent
+- gpgconf
+- gpgsm
+- gpgv
+- gpg-wks-server
+- gpsd
+- grep
+- groff-base
+- grub2-common
+- grub-common
+- gssproxy
+- guvcview
+- gzip
+- haproxy
+- haveged
+- heimdal-clients
+- heimdal-kcm
+- heimdal-kdc
+- hostapd
+- hostname
+- ibverbs-utils
+- iftop
+- ifupdown
+- iio-sensor-proxy
+- imagemagick-6.q16
+- info
+- inotify-tools
+- install-info
+- iperf
+- ipset
+- iptables
+- iptables-nftables-compat
+- iputils-arping
+- iputils-clockdiff
+- iputils-ping
+- iputils-tracepath
+- isc-dhcp-relay
+- isc-dhcp-server
+- iscsiuio
+- iw
+- kbd
+- kcm-mouse
+- kcmshell
+- kcm-touchpad
+- kde-spectacle
+- keyutils
+- kio
+- kmod
+- krb5-gss-samples
+- ksysguardd
+- lame
+- ldap-utils
+- ldm
+- ldnsutils
+- less
+- lftp
+- libarchive-tools
+- libcap2-bin
+- libecpg-dev
+- libfabric1
+- libflygetexe-bin
+- libflythumbnails2
+- libhsm-bin
+- libiscsi-bin
+- libkf5config-bin
+- libkf5globalaccel-bin
+- libkf5service-bin
+- liblockfile-bin
+- libmbim-utils
+- libndp-tools
+- libnotify-bin
+- libnss3-tools
+- libpam-modules-bin
+- libperl5.24
+- libpwquality-tools
+- libqapt3-runtime
+- libqmi-utils
+- librsvg2-bin
+- libteam-utils
+- libwpd-tools
+- lighttpd
+- livemedia-utils
+- lksctp-tools
+- lmdb-utils
+- login
+- logrotate
+- lpr
+- lsof
+- ltspfs
+- ltspfsd-core
+- lvm2
+- m4
+- make
+- mariadb-client-10.1
+- mariadb-client-core-10.1
+- mariadb-plugin-tokudb
+- mariadb-server-10.1
+- mariadb-server-core-10.1
+- mariadb-test
+- mawk
+- mc
+- memcached
+- mesa-utils
+- miniupnpc
+- mmdb-bin
+- modemmanager
+- mount
+- mtdev-tools
+- mtools
+- mtr
+- nano
+- ncurses-bin
+- ndisc6
+- netcat-openbsd
+- netcat-traditional
+- net-tools
+- network-manager
+- nfs-common
+- nfs-kernel-server
+- nghttp2-client
+- nghttp2-proxy
+- nghttp2-server
+- nginx-core
+- nmap
+- ntfs-3g
+- ntpdate
+- odbcinst
+- oddjob
+- ofono
+- openbsd-inetd
+- openconnect
+- opendnssec-enforcer-sqlite3
+- opendnssec-signer
+- open-iscsi
+- open-isns-discoveryd
+- open-isns-server
+- open-isns-utils
+- openmpi-bin
+- openntpd
+- opensc
+- openssh-client
+- openssh-client-ssh1
+- openssh-server
+- openssl
+- openvpn
+- p11-kit
+- parted
+- passwd
+- pavucontrol-qt
+- pciutils
+- pcscd
+- pdns-backend-ldap
+- pdns-server
+- pdns-tools
+- perl-base
+- pgadmin3
+- pgpool2
+- php7.0-cli
+- picom
+- pinentry-curses
+- pinentry-gnome3
+- pinentry-qt
+- plymouth
+- policycoreutils
+- policykit-1
+- powertop
+- ppp
+- pptpd
+- pptp-linux
+- printer-driver-hpijs
+- procps
+- psi-plus
+- psi-plus-webkit
+- psl
+- psmisc
+- pstotext
+- putty
+- putty-tools
+- python2.7-minimal
+- python3.5-minimal
+- qbat
+- qbittorrent
+- qbittorrent-nox
+- qtchooser
+- quota
+- radvd
+- rdate
+- rdmacm-utils
+- redis-tools
+- reprepro
+- riemann-c-client
+- rpcbind
+- rsync
+- rsyslog
+- ruby2.3
+- sed
+- selinux-utils
+- slapd
+- slapi-nis
+- slony1-2-bin
+- smbnetfs
+- snmp
+- snmpd
+- sntp
+- socat
+- softhsm2
+- sox
+- spawn-fcgi
+- speedcrunch
+- sqlite3
+- sqlite3-tools
+- sshfs
+- sysvinit-utils
+- tar
+- tcpd
+- tdb-tools
+- telnet
+- time
+- traceroute
+- udev
+- udisks2
+- unixodbc
+- unrar
+- unrtf
+- untex
+- unzip
+- upower
+- usb-modeswitch
+- usbutils
+- util-linux
+- vim
+- vim-tiny
+- vlc-bin
+- vorbis-tools
+- weston
+- wget
+- whiptail
+- whois
+- wpasupplicant
+- x11-apps
+- x11-session-utils
+- x11-utils
+- x11-xkb-utils
+- x11-xserver-utils
+- xauth
+- xca
+- xdg-user-dirs
+- xembed-sni-proxy
+- xfonts-utils
+- xinit
+- xinput
+- xl2tpd
+- xserver-xephyr
+- xserver-xorg-core
+- xserver-xorg-input-synaptics
+- xserver-xorg-input-wacom
+- xserver-xorg-video-intel
+- xserver-xorg-video-vmware
+- xterm
+- xwayland
+- xz-utils
+- yelp
+- zip
+- отклонено isc-dhcp-client-ddns и...
+- отклонено isc-dhcp-server-ldap и...
+- отклонено postgresql-common из /...

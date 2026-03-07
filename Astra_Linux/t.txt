@@ -1,0 +1,4 @@
+all_log.txt
+1
+2
+all

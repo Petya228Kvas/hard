@@ -1,0 +1,142 @@
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/sbin/chcpu
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,17,/sbin/iscsiuio
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/sbin/e2undo
+Partial RELRO,No Canary found,NX enabled,No PIE,N/A,N/A,No Symbols,N/A,0,0,/sbin/ldconfig
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,14,/sbin/fsck.fat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,11,/sbin/cryptsetup
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/sbin/mkntfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/sbin/swaplabel
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/sbin/iwspy
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,10,/sbin/veritysetup
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,10,/sbin/request-key
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/sbin/capsh
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,15,/sbin/agetty
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/sbin/iwlist
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,11,/sbin/arptables
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,14,/sbin/fatlabel
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/sbin/iwgetid
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/sbin/mount.ecryptfs_private
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,19,/sbin/dhclient
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/sbin/ipset
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/sbin/e2image
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,15,/sbin/fsck.minix
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,N/A,0,0,/sbin/ebtables
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,14,/sbin/sm-notify
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,12,18,/sbin/xtables-compat-multi
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,14,/sbin/quotaon
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/sbin/parted
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/sbin/swapon
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,10,/sbin/ipvsadm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/sbin/mkfs.cramfs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/sbin/iw
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/sbin/kbdrate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/sbin/iwpriv
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/sbin/load_policy
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/sbin/route
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/sbin/mkhomedir_helper
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/sbin/partprobe
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,2,/sbin/ebtables-restore
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,25,/sbin/iscsiadm
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/sbin/dmeventd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/sbin/nameif
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,10,/sbin/hwclock
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/sbin/plipconfig
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/sbin/plymouthd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,7,/sbin/fsck
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/sbin/isosize
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,21,/sbin/lvm
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,17,/sbin/rpc.statd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,15,/sbin/losetup
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/sbin/fstab-decode
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/sbin/mkfs.fat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/sbin/raw
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,13,/sbin/mount.exfat-fuse
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/sbin/setcap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,17,/sbin/mkfs.minix
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,10,/sbin/unix_update
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/sbin/umount.udisks2
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,7,/sbin/atmarpd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,8,/sbin/slattach
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/sbin/setfiles
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/sbin/blockdev
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/sbin/wipefs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,8,/sbin/mii-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/sbin/pam_tally
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,15,/sbin/mkswap
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/sbin/resize2fs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/sbin/mount.fuse
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/sbin/badblocks
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/sbin/runuser
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,20,/sbin/fdisk
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/sbin/restorecon_xattr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/sbin/ntfsundelete
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/sbin/fsfreeze
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,5,/sbin/ntfscp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/sbin/debugfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,11,/sbin/ifup
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,10,/sbin/ethtool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,13,/sbin/mount.dapfs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,11,/sbin/xtables-multi
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,8,/sbin/start-stop-daemon
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/sbin/iptunnel
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/sbin/getpcaps
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/sbin/pam_tally2
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,23,/sbin/iscsistart
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/sbin/logsave
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/sbin/iscsi-iname
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/sbin/sysctl
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/sbin/sfdisk
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/sbin/fstrim
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,5,/sbin/devlink
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/sbin/umount.ecryptfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/sbin/atmarp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,6,/sbin/iwevent
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,11,/sbin/rpcbind
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/sbin/mkfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,15,/sbin/cfdisk
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,9,/sbin/rarp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/sbin/ntfsclone
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/sbin/mount.ecryptfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,11,/sbin/killall5
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/sbin/mkfs.bfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,15,/sbin/blkid
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,11,/sbin/unix_chkpwd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/sbin/ifconfig
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/sbin/dmsetup
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/sbin/pivot_root
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,16,/sbin/quotacheck
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,6,/sbin/key.dns_resolver
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,16,/sbin/tc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,18,/sbin/zramctl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,17,/sbin/wpa_cli
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/sbin/swapoff
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/sbin/brctl
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/sbin/findfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,12,/sbin/bridge
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,19,/sbin/dhclient-noddns
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,21,/sbin/wpa_supplicant
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/sbin/fsck.cramfs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/sbin/lvmetad
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/sbin/getcap
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,26,/sbin/iscsid
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/sbin/sulogin
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,12,19,/sbin/mount.nfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/sbin/ctrlaltdel
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/sbin/ntfsresize
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/sbin/lvmpolld
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/sbin/cryptsetup-reencrypt
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/sbin/showmount
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,15,/sbin/e2fsck
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,10,/sbin/rtmon
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/sbin/tune2fs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/sbin/ifrename
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/sbin/tipc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/sbin/iwconfig
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/sbin/dumpe2fs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/sbin/mke2fs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/sbin/rtacct
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/sbin/blkdiscard
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/sbin/ipmaddr
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/sbin/nfsdcltrack
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/sbin/switch_root
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/sbin/ntfslabel

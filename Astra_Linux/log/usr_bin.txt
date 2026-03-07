@@ -1,0 +1,1394 @@
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/dbus-uuidgen
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/ndisc6
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/whereis
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,8,/usr/bin/nstat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/pax11publish
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xstdcmap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/freebcp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/rsvg-view-3
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/bc
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/usr/bin/dumresp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/pgrep
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,N/A,0,0,/usr/bin/recollq
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kgpg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-date
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/rdma_xclient
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/mdb_dump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/ipcmk
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/p7verify
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/sha1sum
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/msgexec
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/amqp-get
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-reflex
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/setleds
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/usr/bin/lprm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/weston-launch
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,19,/usr/bin/x86_64-linux-gnu-g++-6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,11,/usr/bin/firemon
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/snmpdf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/tdbtool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/fly-fm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/sort-dctrl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,20,/usr/bin/ssh1
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/fly-xkbmap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/xvidtune
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,22,/usr/bin/omshell
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,11,/usr/bin/newgrp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,10,/usr/bin/bsign
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,21,/usr/bin/gawk
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-scan
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-props
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/ldns-version
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/pwdx
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xlsclients
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/dnsgram
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/vmstat
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/xrefresh
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/lockfile-check
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fc-query
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/djvmcvt
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,20,/usr/bin/ncat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/desktop-file-install
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,8,/usr/bin/mdb_load
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/sha256sum
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/p7env
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/dnsscope
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/bitmap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/flock
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,11,/usr/bin/gpg-wks-server
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/symcryptrun
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/spectacle
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/dnsubmit
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/clear
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ldns-verify-zone
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/rstream
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/pdftocairo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/guvcview
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/growisofs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/dbus-monitor
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,8,/usr/bin/pkcs15-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,6,/usr/bin/fly-run
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,8,/usr/bin/tset
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/rsvg-convert
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/printf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/snmptrap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-network
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/qmicli
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/ecryptfsd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,6,/usr/bin/h2load
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/dbscan
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/qbittorrent
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,14,/usr/bin/isodump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/xlsfonts
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/chattr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/ibv_asyncwatch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,4,/usr/bin/systemd-run
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/aseqnet
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,11,/usr/bin/intel-virtual-output
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ldns-key2ds
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xlogo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/db5.3_checkpoint
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/westcos-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/xz
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,16,/usr/bin/x86_64-linux-gnu-gcov-tool-6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,28,/usr/bin/putty
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,16,/usr/bin/nbackup
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/who
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xwd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/unshare
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,11,/usr/bin/pg_config.libpq-dev
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,8,/usr/bin/pkcs15-crypt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/m4
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/lockfile-create
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/faked-tcp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/mdb_stat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/pkcheck
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,8,/usr/bin/dbus-daemon
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-camera
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/msgmerge
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-brightness
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/testMPEG2TransportStreamTrickPlay
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/spawn-fcgi
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,15,35,/usr/bin/fly-wm
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/rlmgr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/usr/bin/chsh
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/mbstream
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/mysqlimport
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/lp
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/animate-im6.q16
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,15,/usr/bin/dnstcpbench
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/ecryptfs-generate-tpm-key
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/col
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/vfychain
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/fly-search-panel
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/playSIP
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,21,/usr/bin/xterm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/logger
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/orte-clean
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/uniq
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-fm-service
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/splitfont
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,6,/usr/bin/fly-shutdown-dialog
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/djvudump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kcookiejar5
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,5,/usr/bin/pdbedit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/oshmem_info
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,18,/usr/bin/unzipsfx
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/lsinput
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/usr/bin/sqldiff
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,18,39,/usr/bin/mariabackup
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/fi_pingpong
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/tstclnt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/expand
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,19,/usr/bin/x86_64-linux-gnu-gcc-6
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/opensc-notify
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,15,/usr/bin/x86_64-linux-gnu-objdump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/paste
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/tbl
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/acpi_listen
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,5,/usr/bin/nghttp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,15,/usr/bin/partx
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/soelim
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ldns-revoke
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/tac
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/toe
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/glxgears
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/sort
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/fold
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/amqp-consume
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/test
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,5,/usr/bin/inkscape
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/clockdiff
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/vlc-wrapper
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,5,/usr/bin/recoll
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/pk1sign
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/openpgp-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/fly-admin-theme
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/amqp-delete-queue
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/unrtf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/arpaname
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/avahi-resolve
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/xfontsel
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/getent
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/ppdpo
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/snmptable
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/alsatplg
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/dbus-run-session
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,25,/usr/bin/Xwayland
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/openRTSP
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,18,/usr/bin/grub-file
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/yelp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,2,/usr/bin/systemd-cgls
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/stream-im6.q16
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fc-list
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/showkey
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,15,/usr/bin/aptitude-curses
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/usr/bin/nslookup
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,16,/usr/bin/sdig
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-time
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/fly-wmfunc
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/geoiplookup6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/watchgnupg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/ktelnetservice5
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/cupstestdsc
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/ab
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,11,/usr/bin/dbus-launch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/usr/bin/hpijs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/dnlogin
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kscreend
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,15,/usr/bin/ogg123
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/xwud
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,5,/usr/bin/systemd-cgtop
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/qtchooser
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/teamnl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/ppdhtml
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,6,/usr/bin/nsupdate
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/zdump
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,13,/usr/bin/bsdtar
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/setterm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/kate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/msgfilter
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ppdmerge
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/pathchk
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/screendump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,14,/usr/bin/quotasync
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,18,/usr/bin/memcached
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/ccguess
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,10,/usr/bin/bsqlodbc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/mkmanifest
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/firecfg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/update-mime-database.real
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/bsd-from
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/listres
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,21,/usr/bin/mtools
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/fly-admin-autostart
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kpackagetool5
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,26,/usr/bin/x86_64-linux-gnu-ld.gold
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/xeyes
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/faillog
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-admin-usbip
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,15,35,/usr/bin/mysql_client_test_embedded
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fi_info
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/untex
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ldns-resolver
+Partial RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/clear_console
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/kolourpaint
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,14,/usr/bin/signtool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/p7content
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/dbwrap_tool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ecryptfs-add-passphrase
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/usr/bin/pdnsutil
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/pinentry-qt
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/wxmaxima
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/db5.3_replicate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,6,/usr/bin/fly-start-panel
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/kpagsh
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/bmtoa
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/monitor-sensor
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,11,/usr/bin/sqlite3_analyzer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/checkgid
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/mysqlslap
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/named-rrchecker
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/apt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,14,32,/usr/bin/python2.7
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/id
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testH265VideoStreamer
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/line
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/setpci
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,19,/usr/bin/grub-mkrelpath
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/snmptranslate
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,5,/usr/bin/sharesec
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/usr/bin/zone2json
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-sms
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/psktool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,17,/usr/bin/openssl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/dnsscan
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/testMPEG1or2Splitter
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/join
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/p7sign
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/diff3
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,29,/usr/bin/audacity
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,27,/usr/bin/vim.basic
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,15,/usr/bin/dpkg-divert
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/groff
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/c44
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/awrite
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,7,/usr/bin/man
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/xman
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/xkbevd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kgammad
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/setlogcons
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/weston
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/eidenv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ldns-compare-zones
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/ods-kaspcheck
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,21,/usr/bin/grub-render-label
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/vlmgr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/aria_ftdump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/hostid
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,24,/usr/bin/grub-mknetdir
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-open-service
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,25,/usr/bin/pscp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/ldapwhoami
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/lbmount
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/ipptool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/sc-hsm-tool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/mdb_copy
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/htdbm
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/x86_64-linux-gnu-gcc-ranlib-6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/apt-sortpkgs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/secon
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/xinit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/ischroot
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-kcm-touchpad-list-devices
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/kinit.heimdal
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/pic
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/picom
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/softhsm2-keyconv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/ldns-testns
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/xload
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,11,/usr/bin/xca
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-alternatives
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/psi-plus
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/ldns-update
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/iecset
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,11,/usr/bin/redis-benchmark
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,27,/usr/bin/mysqlbinlog
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/atmdiag
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,13,/usr/bin/x86_64-linux-gnu-strip
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/mcookie
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,10,/usr/bin/sshfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/opensc-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/mmdblookup
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/loadunimap
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/srptool
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fc-pattern
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-calc
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/x86_64-linux-gnu-nm
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,7,/usr/bin/qtnotifydaemon
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/pdftops
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/csepdjvu
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,2,/usr/bin/testparm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/fmt
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/smbcquotas
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/xconsole
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/gpgparsemail
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/qaptworker3
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,14,/usr/bin/tokuftdump
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/pulseaudio
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/strsclnt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/truncate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/pkexec
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,16,/usr/bin/scp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/afslog
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,5,/usr/bin/dndir
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/rcopy
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,21,/usr/bin/myisamchk
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,17,/usr/bin/gpgv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,5,/usr/bin/fly-admin-printer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,13,/usr/bin/lsipc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/fly-smb-watcher
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/comm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/usr/bin/xwininfo
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,14,/usr/bin/isovfy
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/usr/bin/mawk
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/mkfontscale
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/live555ProxyServer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,24,/usr/bin/grub-mkstandalone
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xvinfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/renice
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,N/A,0,0,/usr/bin/mvxattr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/apt-cdrom
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/nm-online
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/rotatelogs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/sctp_status
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/ppdc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/ltspfs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,11,/usr/bin/infocmp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/sha384sum
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,11,/usr/bin/xprop
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,20,/usr/bin/info
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,5,/usr/bin/fly-su
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/ocsptool
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,5,/usr/bin/gencat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-mimeapps
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,2,/usr/bin/localectl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/htdigest
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/netkey-tool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/xdg-user-dirs-update
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/slabtop
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/fonttosfnt
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/ldapmodrdn
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/snmpget
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/fcgistarter
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/ico
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,7,/usr/bin/xcalc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/ktutil.heimdal
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/xkbcomp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/synclient
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/ul
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/xcutsel
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,13,32,/usr/bin/php7.0
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,18,/usr/bin/dpkg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-startup-impact-service
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/xclock
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/netkit-rsh
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,16,/usr/bin/perl5.24.1
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/oggdec
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/seq
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/fly-fops-service
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMP3Receiver
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,8,/usr/bin/pldd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,7,/usr/bin/cifsdd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/xkbwatch
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/ltspfsd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testH264VideoStreamer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ecryptfs-rewrap-passphrase
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/lastlog
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/sum
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/snmpwalk
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/rpcgen
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/xbacklight
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/peekfd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,14,/usr/bin/dpkg-deb
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/inotifywatch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/iscsi-ls
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/xev
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/whiptail
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/qbittorrent-nox
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/fbstat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/orted
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMPEG1or2VideoStreamer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/snmpstatus
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/input-kbd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/gnome-keyring-3
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/usr/bin/certtool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,7,/usr/bin/rpcclient
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/dnie-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-kcm-mouse-apply
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/pdfdetach
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/xauth
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-admin-device-manager
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/link
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/usr/bin/gimp-2.8
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/protocoltojson
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/ldns-dpa
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/lpoptions
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/ionice
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/pdffonts
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/cmsutil
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/avahi-set-host-name
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/usr/bin/ldclt
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/pdftoppm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/chrt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/otp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/pactl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,16,/usr/bin/puttygen
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,5,/usr/bin/regshell
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-policykit-1
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/testH264VideoToTransportStream
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/atmswitch
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/shuf
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/fly-dtedit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,9,/usr/bin/aft-mtp-mount
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testWAVAudioStreamer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/pdns_notify
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/watch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/perror
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/tcptraceroute6
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/x86_64-linux-gnu-ranlib
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/pinky
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/ippfind
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/glxheads
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/sethost
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/xcursorgen
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,6,12,/usr/bin/sudo
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/antiword
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/md5sum
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/kpasswd.heimdal
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/stdbuf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/resolve_stack_dump
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/dptsv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,22,/usr/bin/myisam_ftdump
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,N/A,0,0,/usr/bin/qmmp-1
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/users
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ndptool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/xset
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/msgen
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/input-events
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,3,/usr/bin/pacmd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/mysql_tzinfo_to_sql
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/resize
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,5,/usr/bin/nmblookup
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,13,/usr/bin/ods-hsmutil
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,7,/usr/bin/x86_64-linux-gnu-elfedit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/gss-client
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/htpasswd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,8,/usr/bin/gids-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/db5.3_load
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/usr/bin/ldapurl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,16,/usr/bin/ixplore
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/db5.3_sql
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/upower
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,6,/usr/bin/smbget
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,23,/usr/bin/vim.tiny
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/slonik
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,21,/usr/bin/grub-editenv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,5,/usr/bin/fly-update-ini
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/logname
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/selfsign-getcert
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,3,/usr/bin/pacat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/modutil
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/whoami
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/fly-admin-hotkeys
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,12,/usr/bin/dpkg-trigger
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,15,/usr/bin/pg
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,14,/usr/bin/gfix
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,15,/usr/bin/passwd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/fly-init-user
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,18,/usr/bin/smbnetfs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/gwenview
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,11,/usr/bin/lsns
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/osd_cat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/snmpbulkwalk
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/base64
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,16,/usr/bin/top
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,16,/usr/bin/quota
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/tracepath
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/systemd-path
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-thumbnails-service
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/script
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/split
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/head
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/hexdump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/avahi-publish
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/gtf
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/bsqldb
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/apt-get
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/usr/bin/zone2sql
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/fly-pdfview
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,13,/usr/bin/wpa_passphrase
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/pkcs11-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,18,/usr/bin/zipinfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/xkbvleds
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-find
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMPEG1or2VideoReceiver
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,15,/usr/bin/lsof
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,Symbols,Yes,3,5,/usr/bin/dhcp_release6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,7,/usr/bin/smbclient
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,No,0,2,/usr/bin/qtcreator
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/sonetdiag
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/xdpyinfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/oclock
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/ttcp_atm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/pfc
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/xfreerdp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,13,/usr/bin/fbsvcmgr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/prezip-bin
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/fallocate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,17,41,/usr/bin/python3.5
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/aria_dump_log
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/xgamma
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,18,/usr/bin/mtr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,20,/usr/bin/firejail
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,13,/usr/bin/dncopy
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,10,/usr/bin/ccrypt
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/msguniq
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/eqn
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/volname
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,16,/usr/bin/fly-dm_greet
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/certmaster-getcert
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/astra-openvpn-server
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/shlibsign
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/pk12util
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/colrm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-env
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/htcacheclean
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/bsdcat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/dbus-update-activation-environment
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-notes
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/xclipboard
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,11,/usr/bin/phone
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-kcm-touchpad-apply
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/fly-getexe
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/cmtime
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/msginit
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,16,/usr/bin/chfn
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/addpart
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,5,/usr/bin/heimtools
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,11,/usr/bin/patch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/ppdi
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,14,/usr/bin/weston-terminal
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/update-desktop-database
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/fly-admin-winprops
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/nss-pp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/gnome-keyring-daemon
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,9,/usr/bin/sqlite3
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/krdc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/xsetroot
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/usr/bin/tput
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/usr/bin/bsdcpio
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/arping
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/weston-info
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/pdfunite
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/alsaucm
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,12,18,/usr/bin/telnet.netkit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/isdv4-serial-debugger
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/compare-im6.q16
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/msgfmt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/tee
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/encode_keychange
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/realpath
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/mysqlcheck
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/apt-mark
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/dirname
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,5,/usr/bin/mkzftree
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,14,27,/usr/bin/nmap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/taskset
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/update-menus
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/sox
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,13,/usr/bin/softhsm2-util
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,6,/usr/bin/aspell
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testOggStreamer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/derdump
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/rev
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xfd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,11,/usr/bin/numfmt
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,17,/usr/bin/ssh-add
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-kcmshell5
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,12,/usr/bin/apt-ftparchive
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/uptime
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kscreen-doctor
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,5,/usr/bin/delv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/my_print_defaults
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-iso
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/kbuildsycoca5
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/gostsum_from_deb
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/qmi-firmware-update
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/grep-dctrl
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-winprops-service
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,26,/usr/bin/unrar-nonfree
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xkbbell
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/expiry
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-admin-center
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,21,/usr/bin/redis-cli
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/groups
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/usr/bin/goldendict
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/logresolve
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kinfocenter
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,13,/usr/bin/gpgtar
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/file
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/fly-wmpam
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/aria_pack
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/systemd-socket-activate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/ogginfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/db5.3_deadlock
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/yes
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/djvused
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/genfly-dmconf
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,21,/usr/bin/pgadmin3
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/montage-im6.q16
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/svc_recv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,27,/usr/bin/mysqltest
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ibv_devices
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/msgcat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/xhost
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,5,/usr/bin/mev
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/orte-server
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/kdestroy.heimdal
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/traceroute6.iputils
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/ldapsearch
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ldns-nsec3-hash
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/nsenter
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/prlimit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/make
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/ibv_xsrq_pingpong
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kmixctrl
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/riemann-client
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,16,/usr/bin/dnsreplay
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ldns-chaos
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/halog
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/p11-kit
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/ldapexop
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/fly-dm-ask-pin
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/kmix
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,16,/usr/bin/dpkg-query
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-lineedit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/pstotext
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,14,/usr/bin/x86_64-linux-gnu-readelf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/chezdav
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/word-list-compress
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,14,27,/usr/bin/tsql
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/apt-cache
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/aplaymidi
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-date
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/mapscrn
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,12,21,/usr/bin/nping
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/column
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,15,/usr/bin/kbxutil
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,11,/usr/bin/whois
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-cron
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/k3b
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/ompi_info
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/smproxy
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,15,/usr/bin/gpg-agent
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,21,/usr/bin/git
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/recode-sr-latin
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/expr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,11,/usr/bin/xsm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/atobm
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/x86_64-linux-gnu-addr2line
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,17,/usr/bin/genisoimage
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/prtstat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,23,/usr/bin/socat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/rdma_client
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,10,/usr/bin/selfserv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/dnetcat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/tcpspray.ndisc6
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/ngettext
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,3,/usr/bin/ping_pong
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,4,/usr/bin/samba-regedit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/testRelay
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/pkttyagent
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/setxkbmap
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,20,/usr/bin/mysql_upgrade
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/notify-send
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/usbhid-dump
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/lockfile-touch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,10,/usr/bin/grops
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/xsetwacom
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/vlc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-orientation
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/runcon
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/unlink
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/fly-gallery
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/tdbbackup.tdbtools
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,21,/usr/bin/grub-syslinux2cfg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/oggenc
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/xsetmode
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,17,/usr/bin/ecpg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-passwd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/cardos-tool
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/ldnsd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xdriinfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/pwscore
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,11,/usr/bin/iconv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/cmp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/softhsm2-migrate
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/systemd-delta
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/ldappasswd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/ibv_srq_pingpong
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testAMRAudioStreamer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,4,/usr/bin/smbpasswd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,18,/usr/bin/teamd
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/mail-unlock
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,7,/usr/bin/mmldif
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/db5.3_archive
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/pdfinfo
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/astra-freeipa-domains-ctl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/riostream
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/tr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/drill
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,5,/usr/bin/smbcontrol
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/tsort
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/display-im6.q16
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/su_stub
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/tic
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,3,/usr/bin/smbspool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/fly-dialog
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,8,/usr/bin/locale
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ecryptfs-wrap-passphrase
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMP3Streamer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/usr/bin/pdns_control
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/usr/bin/orterun
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/time
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-open
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,12,25,/usr/bin/mysql_plugin
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/atmdump
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,13,/usr/bin/ldapmodify
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/crtsv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/wc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/xcmsdb
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/mkpasswd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ldm-dialog
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/fi_strerror
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,3,/usr/bin/regpatch
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/astra-orientation
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/pstree
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,16,32,/usr/bin/blenderplayer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,15,/usr/bin/gnutls-cli
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-cups-watch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/snmpgetnext
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/setvtrgb
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/lslocks
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,20,/usr/bin/gpre
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,10,/usr/bin/iperf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/iscsi-inq
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,5,/usr/bin/cvt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/xgc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/vfyserv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/orte-dvm
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/fbtracemgr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,7,/usr/bin/dntask
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kscreen-console
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/iceauth
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/sctp_darn
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/mtdev-test
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/lockfile-remove
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/cmst
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,21,/usr/bin/myisampack
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/apt-config
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/testMPEG1or2ProgramToTransportStream
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/resizecons
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/nohup
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,10,/usr/bin/snmpnetstat
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,8,/usr/bin/lpq
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,17,/usr/bin/mysqld_safe_helper
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/ldif
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/fly-admin-fonts
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/vcut
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/fly-admin-dm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,22,/usr/bin/grub-mount
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,24,/usr/bin/plink
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,12,/usr/bin/install
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/xlsatoms
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,15,/usr/bin/garbd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/odbcinst
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/expect
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,6,/usr/bin/sudoreplay
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/unexpand
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/cut
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/import-im6.q16
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,8,/usr/bin/inotifywait
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,11,/usr/bin/fly-kompmgr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/alsaloop
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,14,/usr/bin/lscpu
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,19,/usr/bin/localedef
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/orte-top
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/fly-qmsg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,11,/usr/bin/diff
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/systemd-detect-virt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/lslogins
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fc-cache
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/bzz
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/usr/bin/x86_64-linux-gnu-size
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/checksctp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/cpaldjvu
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/setkeycodes
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/pkcs15-init
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/mbimcli
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/sha224sum
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,16,/usr/bin/ksysguardd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/ldns-signzone
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/bsd-write
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMKVStreamer
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,14,/usr/bin/readom
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/ucs2any
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,7,/usr/bin/lnstat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/kglobalaccel5
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/fly-record
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/rpl8
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,9,/usr/bin/fping6
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-weather
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,13,/usr/bin/devdump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/nmtui
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/xgettext
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,15,35,/usr/bin/mysql_embedded
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/ipcs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/saaldump
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/usr/bin/gsec
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,13,24,/usr/bin/wget
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/odidx
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/db5.3_recover
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,5,/usr/bin/fly-vkbd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,6,/usr/bin/bootctl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/djvumake
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/rdate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/xmodmap
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/printerbanner
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/snmpdelta
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/nproc
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/ucmatose
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/x11perf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/usr/bin/dnswasher
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/tabs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/kbdinfo
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/iscsi-readcapacity16
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/usr/bin/lame
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,3,/usr/bin/regtree
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/qbat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/fly-wmservice
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/rltraceroute6
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/xrandr
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/usr/bin/x86_64-linux-gnu-strings
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/aconnect
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/glxinfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/mesg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,19,/usr/bin/grub-glue-efi
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,18,/usr/bin/unzip
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/dnping
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,7,/usr/bin/mdig
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/chktest
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/dpmgr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/funzip
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/free
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/snmptest
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/nmcli
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ttfread
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fc-cat
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/perl5.24-x86_64-linux-gnu
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,16,/usr/bin/perl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/dhcp_release
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/wcap-decode
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,11,/usr/bin/showstat4
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/djvups
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/cksum
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/testRTSPClient
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/aplay
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/db5.3_upgrade
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,16,/usr/bin/scp1
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/du
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/usr/bin/datacopy
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/amidi
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,20,/usr/bin/grub-mkpasswd-pbkdf2
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/lsusb
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/showconsolefont
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/softhsm2-dump-file
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/showrgb
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,19,/usr/bin/x86_64-linux-gnu-cpp-6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/apt-extracttemplates
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/ecryptfs-manager
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/ldns-walk
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/shred
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/rendercheck
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/xkbset
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,11,/usr/bin/preconv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/alsamixer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/fisql
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/ecryptfs-stat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/pkaction
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,15,/usr/bin/sntp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,18,37,/usr/bin/blender
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-vfs-service
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/ptx
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/dwz
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/xditview
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/ipa-getcert
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,12,/usr/bin/ctdb
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/pdfseparate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/registerRTSPStream
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/ibv_ud_pingpong
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/colcrt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/sha512sum
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/basename
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/upnpc
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/skill
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/MPEG2TransportStreamIndexer
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,No,0,4,/usr/bin/lp_solve
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/join-dctrl
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/fly-admin-session
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/acpi
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/avahi-browse
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,10,/usr/bin/grotty
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,11,/usr/bin/last
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,5,/usr/bin/pgagent
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,5,/usr/bin/gentest
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/ldns-dane
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,10,/usr/bin/bsd-mailx
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/ocspclnt
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/tdbrestore
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/mkfifo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/getfattr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/pinentry-curses
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/tload
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,17,/usr/bin/filan
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/npa-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/rename.ul
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/usr/bin/dig
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/killall
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,3,/usr/bin/regdiff
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/ruby2.3
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/fly-update-notifier
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,7,/usr/bin/systemd-resolve
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/trust
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/usr/bin/showdb
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMPEG4VideoStreamer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/amqp-publish
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/db5.3_dump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,19,/usr/bin/grub-mklayout
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/innochecksum
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/sessreg
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/x86_64-linux-gnu-gcc-ar-6
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/gwenview_importer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/mysql_client_test
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/usr/bin/chage
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/kreadconfig5
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/gpg-connect-agent
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/clementine
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/conjure-im6.q16
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,19,/usr/bin/zipnote
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ecryptfs-unwrap-passphrase
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fc-scan
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/wpd2html
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/vmwarectrl
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,20,/usr/bin/grub-mkimage
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/xbiff
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/dbus-send
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/snmpbulkget
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/djvuextract
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/mysql_waitpid
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/wall
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/dbus-cleanup-sockets
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,4,/usr/bin/lexgrog
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/snmpvacm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,14,/usr/bin/rsaperf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/cupstestppd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/delpart
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/isql
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/fly-dm_config
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/desktop-file-validate
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/snmpusm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/bdftopcf
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/[
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/db5.3_hotbackup
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/ksysguard
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xkill
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,3,/usr/bin/catman
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/tokuft_logprint
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/ibv_uc_pingpong
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/usr/bin/zone2ldap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/sctp_test
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/pdftotext
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/setarch
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/lzmainfo
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/cancel
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/svc_send
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/vorbiscomment
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/gettext
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,23,/usr/bin/zip
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,21,/usr/bin/isql-fb
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/archivemount
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,18,/usr/bin/gpasswd
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xinput
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,5,/usr/bin/sss_ssh_authorizedkeys
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/pasuspender
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/geoiplookup
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/inkview
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,20,/usr/bin/gbak
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/ldns-notify
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/udaddy
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,15,/usr/bin/slon
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/okular
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/base32
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,13,/usr/bin/troff
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/changestool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,17,/usr/bin/netkit-ftp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/wpd2text
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/namei
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/fly-music
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMPEG1or2AudioVideoStreamer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/usr/bin/xkbprint
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/netkit-rlogin
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-create-mac-emblems
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/identify-im6.q16
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/usr/bin/eject
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/calendar
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,19,/usr/bin/zipsplit
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/pdfimages
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/certutil
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/stat
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,15,/usr/bin/wodim
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/otpprint
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,No,0,1,/usr/bin/fly-admin-gmc
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/gs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/live555MediaServer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/dsktune
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,19,/usr/bin/grub-script-check
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/setmetamode
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/nproxy
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,18,/usr/bin/ssh-keygen1
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/resolveip
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,9,/usr/bin/fping
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/attr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/qapt-deb-installer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/gnutls-cli-debug
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/nice
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,20,/usr/bin/git-shell
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/rdma_server
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/pwmake
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/dhcp_lease_time
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/pr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/setsid
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,9,/usr/bin/x86_64-linux-gnu-c++filt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/vobStreamer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/w.procps
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/bdftruncate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/gostsum
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/mmcli
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/pdftohtml
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,11,/usr/bin/xrdb
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/crmgr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/psl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/ltdbtool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ldns-mx
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xsetpointer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/getcert
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/fly-admin-multiseat
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/astra-freeipa-domains
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/mysqlshow
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,20,/usr/bin/gpg
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,8,/usr/bin/host
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/ddjvu
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,5,/usr/bin/busctl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/dnsbulktest
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/rsearch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ldns-keyfetcher
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/convert-im6.q16
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testDVVideoStreamer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,8,/usr/bin/chcon
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/kscreend-setup
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/nsec3dig
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,19,/usr/bin/redis-check-rdb
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/ipcrm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/aread
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/teamdctl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ecryptfs-insert-wrapped-passphrase-into-keyring
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/kadmin.heimdal
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/mysqladmin
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,13,/usr/bin/dirmngr-client
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,23,/usr/bin/grub-fstest
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/djvutxt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/ncal
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,26,/usr/bin/x86_64-linux-gnu-dwp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,22,/usr/bin/grub-mkfont
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,11,/usr/bin/sprof
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMPEG2TransportStreamer
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/mogrify-im6.q16
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-gps
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,13,/usr/bin/x86_64-linux-gnu-objcopy
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,4,/usr/bin/pwdhash
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/wpd2raw
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/fly-thumbnails-creator
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/udisksctl
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ldns-zcat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/opensc-explorer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,4,6,/usr/bin/ntlm_auth
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/curlftpfs
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,4,/usr/bin/alsabat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/testReplicator
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,17,/usr/bin/x86_64-linux-gnu-as
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/db5.3_log_verify
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,2,/usr/bin/systemd-stdio-bridge
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/fly-reflex-service
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,5,11,/usr/bin/net
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/wbinfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/env
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/tail
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/oLschema2ldif
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/infadd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,11,/usr/bin/curl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/local-getcert
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/mysqldump
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/msgcomm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,14,25,/usr/bin/xedit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/syndaemon
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/clementine-tagreader
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-jobviewer
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ldns-read-zone
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,16,/usr/bin/sftp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/getopt
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/fly-launcher
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/envsubst
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,11,/usr/bin/x86_64-linux-gnu-gprof
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,7,/usr/bin/cryptoflex-tool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/pinentry-gnome3
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/testMPEG2TransportReceiver
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,9,/usr/bin/crontab
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/gtk-update-icon-cache
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,5,/usr/bin/netkit-rcp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,4,/usr/bin/faked-sysv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/iasecc-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/csplit
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,5,/usr/bin/whatis
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/symkeyutil
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/xmag
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/printenv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/gsstool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/b2sum
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,4,/usr/bin/ndrdump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,14,26,/usr/bin/tdspool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,6,/usr/bin/mandb
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/slony_logshipper
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/usr/bin/gimp-console-2.8
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/ods-hsmspeed
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/fly-nanosvg
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/dnetstat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/djvutoxml
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,12,/usr/bin/traceroute.db
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,17,/usr/bin/gpgsm
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ldns-test-edns
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/testOnDemandRTSPServer
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,3,/usr/bin/xmessage
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/dndel
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/fly-adjust-palette
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,13,/usr/bin/dpkg-split
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/msgunfmt
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/ibv_rc_pingpong
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/atftp
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,12,/usr/bin/x86_64-linux-gnu-ld.bfd
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,4,/usr/bin/smbcacls
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,2,/usr/bin/timedatectl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,19,/usr/bin/dirmngr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,18,/usr/bin/ssh-keygen
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,6,15,/usr/bin/smbtorture
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/systemd-cat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/aria_chk
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/deallocvt
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/glxdemo
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,No,0,2,/usr/bin/manpath
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/amixer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/name2addr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/msgcmp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/rdma_xserver
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,8,/usr/bin/recollindex
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/orte-ps
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/dircolors
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/getkeycodes
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,14,/usr/bin/saxfr
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,25,/usr/bin/psftp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/ibv_devinfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/xmore
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/defncopy
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/SysTray-X
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,19,/usr/bin/redis-check-aof
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/djvuxmlparser
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,2,/usr/bin/xadump
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/speedcrunch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,5,/usr/bin/locktest
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,7,/usr/bin/ntfsdecrypt
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/usr/bin/rredtool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,8,/usr/bin/iscsi-test-cu
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,14,/usr/bin/dpkg-statoverride
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/tty
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/usr/bin/luit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,5,/usr/bin/piv-tool
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/mail-lock
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/ark
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,9,/usr/bin/lspci
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,11,/usr/bin/gpgconf
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/factor
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,19,/usr/bin/rsync
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/look
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/fly-fops
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/timeout
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/ldapdelete
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/gss-server
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/systemdgenie
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,4,/usr/bin/verify_krb5_conf
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/mail-touchlock
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fc-match
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,7,/usr/bin/psi-plus-webkit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/migratecred
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/getconf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,26,/usr/bin/aria_read_log
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/msggrep
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/ldns-keygen
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/rping
+Full RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/tdbdump
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/transset
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/iscsi-swp
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,5,/usr/bin/sss_ssh_knownhostsproxy
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/codepage
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,7,/usr/bin/pmap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-admin-int-check
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,16,36,/usr/bin/mysqltest_embedded
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/djvm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,10,/usr/bin/dotlockfile
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/dvd+rw-format
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/usr/bin/gnutls-serv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/lsattr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fly-event-volume
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/fly-admin-repo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/sapWatch
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/hxtool
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/x86_64-linux-gnu-ar
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/cbcodec
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/systemd-mount
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,20,/usr/bin/zipcloak
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,19,/usr/bin/gpgcompose
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/lptest
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/lpr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/psfxtable
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,24,/usr/bin/Xephyr
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/gcr-viewer
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,9,/usr/bin/xargs
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,7,/usr/bin/pcimodules
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/msgattrib
+Full RELRO,Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/pdfsig
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,5,/usr/bin/dvd+rw-booktype
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/fc-validate
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,17,41,/usr/bin/python3.5m
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/mckey
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/opensc-asn1
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,5,/usr/bin/udpong
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,5,/usr/bin/profiles
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,17,/usr/bin/replace
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/lpstat
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,5,/usr/bin/tbl-dctrl
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/db5.3_verify
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/ldns-gen-zone
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,15,/usr/bin/grub-menulst2cfg
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,16,/usr/bin/fb_lock_print
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/signver
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/fly-print-monitor
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/arecordmidi
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/db5.3_stat
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,27,/usr/bin/lftp
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,2,/usr/bin/pavucontrol-qt
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/composite-im6.q16
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/viewres
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/nss-addbuiltin
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-qml-dialer
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/odmgr
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,6,/usr/bin/btcflash
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/usr/bin/calidns
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,20,/usr/bin/ssh
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,4,6,/usr/bin/amqp-declare-queue
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,13,/usr/bin/showjournal
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/string2key
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,6,/usr/bin/scriptreplay
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/ldns-zsplit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-admin-format
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/fly-svg2png
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,21,/usr/bin/git-upload-pack
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,3,/usr/bin/kf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/iusql
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,5,/usr/bin/install-menu
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/kwriteconfig5
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,15,/usr/bin/x86_64-linux-gnu-gcov-dump-6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,12,23,/usr/bin/mc
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,11,23,/usr/bin/fly-dm
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/fly-menuedit
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/aseqdump
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,2,2,/usr/bin/smbstatus
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/editres
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,10,/usr/bin/gpgsplit
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,23,/usr/bin/grub-mkrescue
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,10,/usr/bin/resizepart
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,5,/usr/bin/ksu.heimdal
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,7,/usr/bin/sqlite
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,14,/usr/bin/p11tool
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/snmpset
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/crlutil
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/hostnamectl
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,19,/usr/bin/ssh-agent
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,15,/usr/bin/isoinfo
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-term
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/usr/bin/showwal
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,6,/usr/bin/nl
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/vltsv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,10,27,/usr/bin/mysql
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,1,/usr/bin/fly-videocamera
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/fly-dmctl
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/sdiff
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/xembedsniproxy
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/arch
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,16,/usr/bin/reprepro
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/od
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,12,/usr/bin/ldapcompare
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,4,/usr/bin/setfattr
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,2,/usr/bin/msgconv
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,9,17,/usr/bin/ssh-keyscan
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/kgetcred
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,11,20,/usr/bin/systemd-analyze
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,4,/usr/bin/dvd+rw-mediainfo
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/testH265VideoToTransportStream
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/usr/bin/danetool
+Partial RELRO,No Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,3,/usr/bin/dvd-ram-control
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,21,/usr/bin/myisamlog
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/ldns-rrsig
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/nss-dbtest
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/isdv4-serial-inputattach
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,10,/usr/bin/ssltap
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/fly-contacts
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/ktrash5
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,1,/usr/bin/appres
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,12,/usr/bin/install-info
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,3,4,/usr/bin/masktest
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,6,/usr/bin/speaker-test
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,9,/usr/bin/pwdecrypt
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,10,/usr/bin/x86_64-linux-gnu-gcc-nm-6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,RUNPATH,No Symbols,Yes,1,1,/usr/bin/smbtree
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,1,6,/usr/bin/fly-dmrootimage
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,No,0,2,/usr/bin/cjb2
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,17,/usr/bin/find
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,5,8,/usr/bin/update-alternatives
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/egk-tool
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,N/A,0,0,/usr/bin/fly-admin-sourcelist
+Partial RELRO,No Canary found,NX enabled,No PIE,No RPATH,No RUNPATH,No Symbols,No,0,20,/usr/bin/x86_64-linux-gnu-gcov-6
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/iscsi-perf
+Full RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,6,11,/usr/bin/oddjob_request
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,8,18,/usr/bin/procan
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,2,3,/usr/bin/db5.3_printlog
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,7,11,/usr/bin/httpserv
+Partial RELRO,Canary found,NX enabled,PIE enabled,No RPATH,No RUNPATH,No Symbols,Yes,3,7,/usr/bin/utmpdump
